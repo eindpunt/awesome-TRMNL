@@ -56,6 +56,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [TRMNL Tides](https://github.com/UpDryTwist/trmnl-tides) - Generate local tides screen on your TRMNL by UpDryTwist
 - [This day](https://github.com/frethop/TRMNL-thisday) - On This Day in history by frethop
 - [Todoist Sync](https://github.com/Nynir/trmnl-todoist) - Synchronize your Todoist tasks by Nynir
+- [Valorant Tracker](https://github.com/MarkHopper24/Valorant-Tools) - Track your Valorant game stats by MarkHopper24
 
 ## 👾 Extra's
 - [TRMNL - Local Web Server](https://github.com/ohAnd/trmnlServer) - Python local webserver for TRMNL by ohAnd
