@@ -42,6 +42,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [useTRMNL](https://github.com/usetrmnl/plugins) - Featured plugins by useTRMNL
 - [Chuck Norris facts](https://github.com/OptimumMeans/TRMNL-Chuck-Norris) - Random Chuck Norris facts by OptimumMeans
 - [Cyber Security conferences](https://github.com/AlixAbbasi/TRMNL-Sec-Deadlines) - Cyber security conferences deadlines by AlixAbbasi
+- [Dcache](https://github.com/ramdacxp/dcache) - Visualize Selected Home Assistant entities on TRMNL by ramdacxp
 - [Digital Archaeologist](https://github.com/OptimumMeans/TRMNL-Digital-Archaeologist) - Digital Archaeologist by OptimumMeans
 - [Discord Bot](https://github.com/OptimumMeans/TRMNL-Discord-Bot) - Discord bot by OptimumMeans
 - [Fruit Facts](https://github.com/OptimumMeans/TRMNL-Fruit-Facts) - Fruit facts by OptimumMeans
