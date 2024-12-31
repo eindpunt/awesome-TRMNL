@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome TRMNL [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/eindpunt/awesome-trmnl/actions/workflows/lint.yaml/badge.svg)](https://github.com/eindpunt/awesome-trmnl/actions/workflows/lint.yaml) ![GitHub last commit](https://img.shields.io/github/last-commit/eindpunt/awesome-trmnl)
+# Awesome TRMNL [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub last commit](https://img.shields.io/github/last-commit/eindpunt/awesome-trmnl)
 
 
 <!-- subtitle -->
