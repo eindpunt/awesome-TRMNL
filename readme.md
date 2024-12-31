@@ -32,8 +32,11 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 
 ## 📄 Official Docs & Quickstarts
 - [useTRMNL](https://docs.usetrmnl.com/)
-- [TRMNL firmware](https://github.com/usetrmnl/firmware)
 - [TRMNL DIY server](https://github.com/usetrmnl/byos_sinatra) - Self hosted screen generation in Ruby/Sinatra
+
+## ⚡Firmware & Firmware flashing
+- [TRMNL firmware](https://github.com/usetrmnl/firmware)
+- [TRMNL browser firmware flashing](https://usetrmnl.com/flash) - Flash your TRMNL firmware in browser
 
 ## 🔨 Boilerplates
 - [Python Boilerplate](https://github.com/OptimumMeans/TRMNL-Boilerplate) - by OptimumMeans
