@@ -72,6 +72,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 
 ## 👾 Extra's
 - [TRMNL - Local Web Server](https://github.com/ohAnd/trmnlServer) - Python local webserver for TRMNL by ohAnd
+- [TRMNL - 3D printable mounts](https://github.com/usetrmnl/mounts) - 3D printable mounts (fridge magnet, corner bracket)
 
 <!-- END CONTENT -->
 
