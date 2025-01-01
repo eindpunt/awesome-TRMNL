@@ -43,25 +43,32 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 
 ## 🔌 Plugins
 - [useTRMNL](https://github.com/usetrmnl/plugins) - Featured plugins by useTRMNL
+- [American College Football top 10](https://github.com/SnarfulSolutionsGroup/TRMNL-Plugins/blob/main/TRMNL_CFB.md) - College Football Top 10 Ranking by SnarfulSolutionsGroup
 - [Chuck Norris facts](https://github.com/OptimumMeans/TRMNL-Chuck-Norris) - Random Chuck Norris facts by OptimumMeans
 - [Cyber Security conferences](https://github.com/AlixAbbasi/TRMNL-Sec-Deadlines) - Cyber security conferences deadlines by AlixAbbasi
+- [Daily comic xkcd](https://github.com/SnarfulSolutionsGroup/TRMNL-Plugins/blob/main/TRMNL_Comic.md) - Daily Comic from xkcd by SnarfulSolutionsGroup
 - [Dcache](https://github.com/ramdacxp/dcache) - Visualize Selected Home Assistant entities on TRMNL by ramdacxp
 - [Digital Archaeologist](https://github.com/OptimumMeans/TRMNL-Digital-Archaeologist) - Digital Archaeologist by OptimumMeans
 - [Discord Bot](https://github.com/OptimumMeans/TRMNL-Discord-Bot) - Discord bot by OptimumMeans
 - [FBI most wanted](https://github.com/OptimumMeans/TRMNL-FBI-Most-Wanted) - Shows information about FBI Most Wanted fugitives, randomly selected by OptimumMeans
 - [Fruit Facts](https://github.com/OptimumMeans/TRMNL-Fruit-Facts) - Fruit facts by OptimumMeans
 - [Habitify](https://github.com/sejtenik/trmnl-habitify-plugin) - by sejtenik
+- [Hacker News](https://github.com/usetrmnl/plugins/tree/master/lib/hacker_news) - Hacker News display by usetrmnl
+- [ICS Calendar](https://github.com/jfsso/trmnl-calendar) - fetches an ICS calendar and display events in a multi-column list format by jfsso
 - [Libra weight tracker](https://github.com/sejtenik/trmnl-libra-cloud-plugin) - by sejtenik
 - [Marvel Character of the Day](https://github.com/MarkHopper24/Marvel-Character-of-the-Day/) - by MarkHopper24
 - [NASA Deep Space Network](https://github.com/schrockwell/trmnl-dsn) - Deep Space Network statistics by schrockwel
 - [Remember The Milk](https://github.com/sejtenik/trmnl-rtm-plugin) - by sejtenik
 - [Shipping Tracker](https://github.com/OptimumMeans/TRMNL-Ship-Tracker) - Ship tracker using VesselFinder API by OptimumMeans
-- [Strava goals](https://github.com/vinayak-mehta/trmnl-strava-goals) Strava goals by vinayak-mehta
+- [Strava goals](https://github.com/vinayak-mehta/trmnl-strava-goals) - Strava goals by vinayak-mehta
+- [Surf (surfline) display](https://github.com/pcifaldi/surf_api) - real-time surf and tide data display by pcifaldi
 - [TRMNL Tides](https://github.com/UpDryTwist/trmnl-tides) - Generate local tides screen on your TRMNL by UpDryTwist
+- [Tautulli Dashboard](https://github.com/hosfordryan/trmnl-tautulli-dash) - Tautulli Dashboard (Plex server user metrics) by hosfordryan
 - [This day](https://github.com/frethop/TRMNL-thisday) - On This Day in history by frethop
 - [Tidbyt sync](https://github.com/jvivona/tidbyt-data) - Synchronize your Tidbyt data by jvivona
 - [Todoist Sync](https://github.com/Nynir/trmnl-todoist) - Synchronize your Todoist tasks by Nynir
 - [Valorant Tracker](https://github.com/MarkHopper24/Valorant-Tools) - Track your Valorant game stats by MarkHopper24
+- [Woocommerce](https://github.com/yannicschuller/trmnl-woocommerce) - Fetches store data from WooCommerce API and displays by yannischuller
 
 ## 👾 Extra's
 - [TRMNL - Local Web Server](https://github.com/ohAnd/trmnlServer) - Python local webserver for TRMNL by ohAnd
