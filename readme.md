@@ -11,9 +11,13 @@
 
 A curated list of TRMNL docs, talks, tools, examples & articles the internet has to offer.
 <!-- image -->
-
 <a href="https://usetrmnl.com" target="_blank" rel="noopener noreferrer">
-  <img src="logo--white@512px.png" />
+<picture>
+  <source srcset="logo--white@512px.png" media="(prefers-color-scheme: dark)">
+  <source srcset="logo--black@512px.png" media="(prefers-color-scheme: light)">
+  
+  <img src="logo--black@512px.png" alt="Logo">
+</picture>
 </a>
 
 <!-- description -->
