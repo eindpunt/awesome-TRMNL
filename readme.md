@@ -70,6 +70,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Shipping Tracker](https://github.com/OptimumMeans/TRMNL-Ship-Tracker) - Ship tracker using VesselFinder API by OptimumMeans
 - [Strava goals](https://github.com/vinayak-mehta/trmnl-strava-goals) - Strava goals by vinayak-mehta
 - [Surf (surfline) display](https://github.com/pcifaldi/surf_api) - real-time surf and tide data display by pcifaldi
+- [TRMNL Quotes](https://github.com/michaelgilch/trmnl-quotes) - Inspirational Quotes by michaelgilch
 - [TRMNL Tides](https://github.com/UpDryTwist/trmnl-tides) - Generate local tides screen on your TRMNL by UpDryTwist
 - [Tautulli Dashboard](https://github.com/hosfordryan/trmnl-tautulli-dash) - Tautulli Dashboard (Plex server user metrics) by hosfordryan
 - [This day](https://github.com/frethop/TRMNL-thisday) - On This Day in history by frethop
