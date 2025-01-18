@@ -49,12 +49,14 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 ## 🔌 Plugins
 - [useTRMNL](https://github.com/usetrmnl/plugins) - Featured plugins by useTRMNL
 - [American College Football top 10](https://github.com/SnarfulSolutionsGroup/TRMNL-Plugins/blob/main/TRMNL_CFB.md) - College Football Top 10 Ranking by SnarfulSolutionsGroup
+- [Block Clock](https://github.com/tyler-dot-earth/trmnl-notblockclock) - a "block clock" by tyler-dot-earth
 - [Chuck Norris facts](https://github.com/OptimumMeans/TRMNL-Chuck-Norris) - Random Chuck Norris facts by OptimumMeans
 - [Cyber Security conferences](https://github.com/AlixAbbasi/TRMNL-Sec-Deadlines) - Cyber security conferences deadlines by AlixAbbasi
 - [Daily comic xkcd](https://github.com/SnarfulSolutionsGroup/TRMNL-Plugins/blob/main/TRMNL_Comic.md) - Daily Comic from xkcd by SnarfulSolutionsGroup
 - [Dcache](https://github.com/ramdacxp/dcache) - Visualize Selected Home Assistant entities on TRMNL by ramdacxp
 - [Digital Archaeologist](https://github.com/OptimumMeans/TRMNL-Digital-Archaeologist) - Digital Archaeologist by OptimumMeans
 - [Discord Bot](https://github.com/OptimumMeans/TRMNL-Discord-Bot) - Discord bot by OptimumMeans
+- [ESPHome](https://github.com/jesserockz/esphome-trmnl) - ESPHome firmware for TRMNL
 - [FBI most wanted](https://github.com/OptimumMeans/TRMNL-FBI-Most-Wanted) - Shows information about FBI Most Wanted fugitives, randomly selected by OptimumMeans
 - [Fruit Facts](https://github.com/OptimumMeans/TRMNL-Fruit-Facts) - Fruit facts by OptimumMeans
 - [Habitify](https://github.com/sejtenik/trmnl-habitify-plugin) - by sejtenik
