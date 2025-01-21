@@ -41,6 +41,8 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 ## ⚡Firmware & Firmware flashing
 - [TRMNL firmware](https://github.com/usetrmnl/firmware)
 - [TRMNL browser firmware flashing](https://usetrmnl.com/flash) - Flash your TRMNL firmware in browser
+- [ESPHome firmware](https://github.com/jesserockz/esphome-trmnl) - ESPHome firmware for TRMNL
+
 
 ## 🔨 Boilerplates
 - [TRMNL hello (liquid)](https://github.com/schrockwell/trmnl-hello) - Boilerplate for the tmrnl_preview dev server by schrockwell
@@ -56,7 +58,6 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Dcache](https://github.com/ramdacxp/dcache) - Visualize Selected Home Assistant entities on TRMNL by ramdacxp
 - [Digital Archaeologist](https://github.com/OptimumMeans/TRMNL-Digital-Archaeologist) - Digital Archaeologist by OptimumMeans
 - [Discord Bot](https://github.com/OptimumMeans/TRMNL-Discord-Bot) - Discord bot by OptimumMeans
-- [ESPHome](https://github.com/jesserockz/esphome-trmnl) - ESPHome firmware for TRMNL
 - [FBI most wanted](https://github.com/OptimumMeans/TRMNL-FBI-Most-Wanted) - Shows information about FBI Most Wanted fugitives, randomly selected by OptimumMeans
 - [Fruit Facts](https://github.com/OptimumMeans/TRMNL-Fruit-Facts) - Fruit facts by OptimumMeans
 - [Habitify](https://github.com/sejtenik/trmnl-habitify-plugin) - by sejtenik
@@ -89,6 +90,9 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [TRMNL preview  - local development server](https://github.com/schrockwell/trmnl_preview) - A local server that enables local development of plugins using Liquid templates by schrokwell
 - [TRMNL preview docker 🐳 - local dev server](https://hub.docker.com/r/schrockwell/trmnlp) - Docker image for the local dev server by schrokwell
 <!-- END CONTENT -->
+
+## 📽️ Video's
+- [TRMNL OSS Server - Alpha Release Demo](https://www.youtube.com/watch?v=3xehPW-PCOM)
 
 ## Follow
 
