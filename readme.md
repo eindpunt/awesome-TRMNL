@@ -83,6 +83,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Washington Post frontpage](https://github.com/thamarnan/TRMNL-NYT) - Daily Washington Post frontpage by thamarnan
 - [Weekly goal tracker / Habit tracker](https://github.com/azjgard/trmnl-weekly-goal-tracker) - Weekly goal tracker by azjgard
 - [Woocommerce](https://github.com/yannicschuller/trmnl-woocommerce) - Fetches store data from WooCommerce API and displays by yannischuller
+- [Word of the Day](https://github.com/sejtenik/trmnl-word-of-the-day-plugin) - retrieves the Word of the Day from various online dictionaries by sejtenik
 
 ## 👾 Extra's
 - [TRMNL - Local Web Server](https://github.com/ohAnd/trmnlServer) - Python local webserver for TRMNL by ohAnd
