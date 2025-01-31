@@ -48,6 +48,9 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [TRMNL hello (liquid)](https://github.com/schrockwell/trmnl-hello) - Boilerplate for the tmrnl_preview dev server by schrockwell
 - [Python Boilerplate](https://github.com/OptimumMeans/TRMNL-Boilerplate) - by OptimumMeans
 
+## 🖱️ Development
+- [Laravel TRMNL](https://github.com/bnussbau/laravel-trmnl) - Develop TRMNL plugins with Laravel
+
 ## 🔌 Plugins
 - [useTRMNL](https://github.com/usetrmnl/plugins) - Featured plugins by useTRMNL
 - [American College Football top 10](https://github.com/SnarfulSolutionsGroup/TRMNL-Plugins/blob/main/TRMNL_CFB.md) - College Football Top 10 Ranking by SnarfulSolutionsGroup
@@ -61,6 +64,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [FBI most wanted](https://github.com/OptimumMeans/TRMNL-FBI-Most-Wanted) - Shows information about FBI Most Wanted fugitives, randomly selected by OptimumMeans
 - [Fruit Facts](https://github.com/OptimumMeans/TRMNL-Fruit-Facts) - Fruit facts by OptimumMeans
 - [GitHub Commit Graph](https://github.com/usetrmnl/plugins/tree/master/lib/github_commit_graph) - GitHub Commit tracker graph by usetrmnl
+- [Goals Manager](https://github.com/nmartinovic/trmnl-goals-manager) - by nmartinovic
 - [Habitify](https://github.com/sejtenik/trmnl-habitify-plugin) - by sejtenik
 - [Hacker News](https://github.com/usetrmnl/plugins/tree/master/lib/hacker_news) - Hacker News display by usetrmnl
 - [ICS Calendar](https://github.com/jfsso/trmnl-calendar) - fetches an ICS calendar and display events in a multi-column list format by jfsso
@@ -83,6 +87,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [TickTick Calendar](https://github.com/frethop/TRMNL-ticktick) - TickTick Calendar by frethop
 - [Tidbyt sync](https://github.com/jvivona/tidbyt-data) - Synchronize your Tidbyt data by jvivona
 - [Todoist Sync](https://github.com/Nynir/trmnl-todoist) - Synchronize your Todoist tasks by Nynir
+- [Transport for London status](https://github.com/stevekennedyuk/trmnl-tfl-status) - Transport for London status by stevekennedyuk
 - [Valorant Tracker](https://github.com/MarkHopper24/Valorant-Tools) - Track your Valorant game stats by MarkHopper24
 - [Washington Post frontpage](https://github.com/thamarnan/TRMNL-NYT) - Daily Washington Post frontpage by thamarnan
 - [Weekly goal tracker / Habit tracker](https://github.com/azjgard/trmnl-weekly-goal-tracker) - Weekly goal tracker by azjgard
