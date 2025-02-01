@@ -49,7 +49,8 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Python Boilerplate](https://github.com/OptimumMeans/TRMNL-Boilerplate) - by OptimumMeans
 
 ## 🖱️ Development
-- [Laravel TRMNL](https://github.com/bnussbau/laravel-trmnl) - Develop TRMNL plugins with Laravel
+- [Laravel TRMNL](https://github.com/bnussbau/laravel-trmnl) - Develop TRMNL plugins with Laravel by bnussbau
+- [Plugin Tester](https://github.com/gitstua/trmnl-plugin-dev) - A development tool for testing TRMNL plugins by gitstua
 
 ## 🔌 Plugins
 - [useTRMNL](https://github.com/usetrmnl/plugins) - Featured plugins by useTRMNL
@@ -65,6 +66,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Fruit Facts](https://github.com/OptimumMeans/TRMNL-Fruit-Facts) - Fruit facts by OptimumMeans
 - [GitHub Commit Graph](https://github.com/usetrmnl/plugins/tree/master/lib/github_commit_graph) - GitHub Commit tracker graph by usetrmnl
 - [Goals Manager](https://github.com/nmartinovic/trmnl-goals-manager) - by nmartinovic
+- [Google Keep todo list](https://github.com/ellipticview/trmnl-google-keep) - Google Keep todo list on your TRMNL by ellipticview
 - [Habitify](https://github.com/sejtenik/trmnl-habitify-plugin) - by sejtenik
 - [Hacker News](https://github.com/usetrmnl/plugins/tree/master/lib/hacker_news) - Hacker News display by usetrmnl
 - [ICS Calendar](https://github.com/jfsso/trmnl-calendar) - fetches an ICS calendar and display events in a multi-column list format by jfsso
@@ -115,7 +117,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 
 ### 🫂 Community
 
-- 
+- 📺 [YouTube review](https://www.youtube.com/watch?v=eIcZZX10pa4)
 
 ## Contributing
 
