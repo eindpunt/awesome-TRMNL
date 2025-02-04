@@ -69,6 +69,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Google Keep todo list](https://github.com/ellipticview/trmnl-google-keep) - Google Keep todo list on your TRMNL by ellipticview
 - [Habitify](https://github.com/sejtenik/trmnl-habitify-plugin) - by sejtenik
 - [Hacker News](https://github.com/usetrmnl/plugins/tree/master/lib/hacker_news) - Hacker News display by usetrmnl
+- [Home Assistant](https://github.com/ididit99/useTRMNL-Home-Assistant) - Sending Home Assistant data to TRMNL via a webhook by ididit99
 - [ICS Calendar](https://github.com/jfsso/trmnl-calendar) - fetches an ICS calendar and display events in a multi-column list format by jfsso
 - [Ground Control ISS data](https://github.com/vanbrabantf/Ground-Control-TRMNL) - Fetches data from the Internation Space Station by vanbrabantf
 - [Libra weight tracker](https://github.com/sejtenik/trmnl-libra-cloud-plugin) - by sejtenik
@@ -76,6 +77,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Metar Weather](https://github.com/schrockwell/trmnl-metar) - Displaying Weather conditions for a METAR station (METeorologial Aerodrome Reports), data is provided by NOAA's Aviation Weather Center by schrockwell
 - [Moonphase display](https://github.com/schrockwell/trmnl-moonphase) - Displays the current Moon Phase by schrockwell
 - [NASA Deep Space Network](https://github.com/schrockwell/trmnl-dsn) - Deep Space Network statistics by schrockwel
+- [Obsidian](https://github.com/frethop/obsidian-TRMNL) - Sample plugin to show Obsidian data on trmnl by frethop
 - [Remember The Milk](https://github.com/sejtenik/trmnl-rtm-plugin) - by sejtenik
 - [Shipping Tracker](https://github.com/OptimumMeans/TRMNL-Ship-Tracker) - Ship tracker using VesselFinder API by OptimumMeans
 - [Stock price](https://github.com/usetrmnl/plugins/tree/master/lib/stock_price) - Stock price by trmnl
