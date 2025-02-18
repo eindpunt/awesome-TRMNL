@@ -50,13 +50,18 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Python Boilerplate](https://github.com/OptimumMeans/TRMNL-Boilerplate) - by OptimumMeans
 
 ## 🖱️ Development
+- [Emulate TRMNL display](https://github.com/jackmawer/virtual-trmnl) - A webpage to emulate the TRMNL display
 - [Laravel TRMNL](https://github.com/bnussbau/laravel-trmnl) - Develop TRMNL plugins with Laravel by bnussbau
 - [Plugin Tester](https://github.com/gitstua/trmnl-plugin-dev) - A development tool for testing TRMNL plugins by gitstua
+- [Plugin DEV kit](https://github.com/sdjmchattie/trmnl-plugin-dev-kit) - A plugin development kit for TRMNL devices by sdjmchattie
 
 ## 🔌 Plugins
 - [useTRMNL](https://github.com/usetrmnl/plugins) - Featured plugins by useTRMNL
+- [Ambient Weather display](https://github.com/evandhoffman/trmnl-pws) - Read data from my ambientweather.net weather station by evandhoffman
 - [American College Football top 10](https://github.com/SnarfulSolutionsGroup/TRMNL-Plugins/blob/main/TRMNL_CFB.md) - College Football Top 10 Ranking by SnarfulSolutionsGroup
+- [Apple Reminders](https://github.com/sdjmchattie/trmnl-apple-reminders) - display Apple Reminders by sdjmchattie
 - [Block Clock](https://github.com/tyler-dot-earth/trmnl-notblockclock) - a "block clock" by tyler-dot-earth
+- [Bring!](https://github.com/yshrdbrn/trmnl-bring-plugin) - Display your Bring! shopping list on TRMNL by yshrdbrn
 - [Chuck Norris facts](https://github.com/OptimumMeans/TRMNL-Chuck-Norris) - Random Chuck Norris facts by OptimumMeans
 - [Cyber Security conferences](https://github.com/AlixAbbasi/TRMNL-Sec-Deadlines) - Cyber security conferences deadlines by AlixAbbasi
 - [Daily comic xkcd](https://github.com/SnarfulSolutionsGroup/TRMNL-Plugins/blob/main/TRMNL_Comic.md) - Daily Comic from xkcd by SnarfulSolutionsGroup
@@ -70,14 +75,19 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Google Keep todo list](https://github.com/ellipticview/trmnl-google-keep) - Google Keep todo list on your TRMNL by ellipticview
 - [Habitify](https://github.com/sejtenik/trmnl-habitify-plugin) - by sejtenik
 - [Hacker News](https://github.com/usetrmnl/plugins/tree/master/lib/hacker_news) - Hacker News display by usetrmnl
+- [HACS Sensor push](https://github.com/gitstua/trmnl-sensor-push) - A HACS custom component for Home Assistant that pushes data to TRMNL.com
 - [Home Assistant](https://github.com/ididit99/useTRMNL-Home-Assistant) - Sending Home Assistant data to TRMNL via a webhook by ididit99
 - [ICS Calendar](https://github.com/jfsso/trmnl-calendar) - fetches an ICS calendar and display events in a multi-column list format by jfsso
+- [KEXP Playlist](https://github.com/modestindustries/TRMNL-Projects/tree/main/TRMNL-KEXP-Playlist) - Display KEXP playlist on trmnl by modestindustries
 - [Ground Control ISS data](https://github.com/vanbrabantf/Ground-Control-TRMNL) - Fetches data from the Internation Space Station by vanbrabantf
 - [Libra weight tracker](https://github.com/sejtenik/trmnl-libra-cloud-plugin) - by sejtenik
 - [Marvel Character of the Day](https://github.com/MarkHopper24/Marvel-Character-of-the-Day/) - by MarkHopper24
+- [MBTA Transport](https://github.com/RyanAngelo/trmnl-mbta) - A real-time MBTA (Massachusetts Bay Transportation Authority) schedule display application by RyanAngelo
 - [Metar Weather](https://github.com/schrockwell/trmnl-metar) - Displaying Weather conditions for a METAR station (METeorologial Aerodrome Reports), data is provided by NOAA's Aviation Weather Center by schrockwell
+- [MEH Deals](https://github.com/ajchili/meh-deals-trmnl-plugin) - Display the daily deal(s) from meh.com by ajchili
 - [Moonphase display](https://github.com/schrockwell/trmnl-moonphase) - Displays the current Moon Phase by schrockwell
 - [NASA Deep Space Network](https://github.com/schrockwell/trmnl-dsn) - Deep Space Network statistics by schrockwel
+- [ÖBB Train monitor](https://github.com/bnussbau/trmnl-train-monitor) - Austrian ÖBB / OBB Train monitor by bnussbau
 - [Obsidian](https://github.com/frethop/obsidian-TRMNL) - Sample plugin to show Obsidian data on trmnl by frethop
 - [Remember The Milk](https://github.com/sejtenik/trmnl-rtm-plugin) - by sejtenik
 - [Shipping Tracker](https://github.com/OptimumMeans/TRMNL-Ship-Tracker) - Ship tracker using VesselFinder API by OptimumMeans
@@ -97,13 +107,17 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Washington Post frontpage](https://github.com/thamarnan/TRMNL-NYT) - Daily Washington Post frontpage by thamarnan
 - [Weekly goal tracker / Habit tracker](https://github.com/azjgard/trmnl-weekly-goal-tracker) - Weekly goal tracker by azjgard
 - [Woocommerce](https://github.com/yannicschuller/trmnl-woocommerce) - Fetches store data from WooCommerce API and displays by yannischuller
+- [Word clock](https://github.com/delhoume/trmnl_wordclock) - Word clock by delhoume
 - [Word of the Day](https://github.com/sejtenik/trmnl-word-of-the-day-plugin) - retrieves the Word of the Day from various online dictionaries by sejtenik
+- [YNAB](https://github.com/turnervink/ynab-for-trmnl) - See your YNAB budget (You Need a Budget) on your TRMNL by turnervink
 
 ## 👾 Extra's
 - [TRMNL - Local Web Server](https://github.com/ohAnd/trmnlServer) - Python local webserver for TRMNL by ohAnd
 - [TRMNL - 3D printable mounts](https://github.com/usetrmnl/mounts) - 3D printable mounts (fridge magnet, corner bracket) by usetrmnl
 - [TRMNL preview  - local development server](https://github.com/schrockwell/trmnl_preview) - A local server that enables local development of plugins using Liquid templates by schrokwell
 - [TRMNL preview docker 🐳 - local dev server](https://hub.docker.com/r/schrockwell/trmnlp) - Docker image for the local dev server by schrokwell
+- [Render TRMNL on WaveShare screen](https://github.com/tobias-theobald/epd-node-trmnl) - Render your trmnl screen to your waveshare 7.5" V2 e-ink display on a raspberry pi
+- [Build your own TRMNL](https://github.com/ruohki/makeshift-trmnl) - Makeshift edition
 <!-- END CONTENT -->
 
 ## 📽️ Video's
