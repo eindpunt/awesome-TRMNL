@@ -62,6 +62,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Apple Reminders](https://github.com/sdjmchattie/trmnl-apple-reminders) - display Apple Reminders by sdjmchattie
 - [Block Clock](https://github.com/tyler-dot-earth/trmnl-notblockclock) - a "block clock" by tyler-dot-earth
 - [Bring!](https://github.com/yshrdbrn/trmnl-bring-plugin) - Display your Bring! shopping list on TRMNL by yshrdbrn
+- [Buienradar](https://github.com/Akisame-AI/TRMNL_buienradar) - Display the weather from Buienradar on your TRMNL
 - [Chuck Norris facts](https://github.com/OptimumMeans/TRMNL-Chuck-Norris) - Random Chuck Norris facts by OptimumMeans
 - [Cyber Security conferences](https://github.com/AlixAbbasi/TRMNL-Sec-Deadlines) - Cyber security conferences deadlines by AlixAbbasi
 - [Daily comic xkcd](https://github.com/SnarfulSolutionsGroup/TRMNL-Plugins/blob/main/TRMNL_Comic.md) - Daily Comic from xkcd by SnarfulSolutionsGroup
@@ -91,6 +92,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Obsidian](https://github.com/frethop/obsidian-TRMNL) - Sample plugin to show Obsidian data on trmnl by frethop
 - [Remember The Milk](https://github.com/sejtenik/trmnl-rtm-plugin) - by sejtenik
 - [Shipping Tracker](https://github.com/OptimumMeans/TRMNL-Ship-Tracker) - Ship tracker using VesselFinder API by OptimumMeans
+- [Steam deals](https://github.com/subtype-space/trmnl-steam-deals) - Displays top rated Steam deals 
 - [Stock price](https://github.com/usetrmnl/plugins/tree/master/lib/stock_price) - Stock price by trmnl
 - [Strava goals](https://github.com/vinayak-mehta/trmnl-strava-goals) - Strava goals by vinayak-mehta
 - [Surf (surfline) display](https://github.com/pcifaldi/surf_api) - real-time surf and tide data display by pcifaldi
@@ -108,7 +110,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Weekly goal tracker / Habit tracker](https://github.com/azjgard/trmnl-weekly-goal-tracker) - Weekly goal tracker by azjgard
 - [Woocommerce](https://github.com/yannicschuller/trmnl-woocommerce) - Fetches store data from WooCommerce API and displays by yannischuller
 - [Word clock](https://github.com/delhoume/trmnl_wordclock) - Word clock by delhoume
-- [Word of the Day](https://github.com/sejtenik/trmnl-word-of-the-day-plugin) - retrieves the Word of the Day from various online dictionaries by sejtenik
+- [Words of the Day](https://github.com/sejtenik/trmnl-words-of-the-day-plugin) - retrieves the Word of the Day from various online dictionaries by sejtenik
 - [YNAB](https://github.com/turnervink/ynab-for-trmnl) - See your YNAB budget (You Need a Budget) on your TRMNL by turnervink
 
 ## 👾 Extra's
