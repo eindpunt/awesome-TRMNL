@@ -64,6 +64,8 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Bring!](https://github.com/yshrdbrn/trmnl-bring-plugin) - Display your Bring! shopping list on TRMNL by yshrdbrn
 - [Buienradar](https://github.com/Akisame-AI/TRMNL_buienradar) - Display the weather from Buienradar on your TRMNL
 - [Chuck Norris facts](https://github.com/OptimumMeans/TRMNL-Chuck-Norris) - Random Chuck Norris facts by OptimumMeans
+- [Countdown plugin](https://github.com/jvdmeij/trmnl-countdown) - Countdown to a specific date, accompanied by an emoji and text by jvdmeij
+- [Crypto Fear & Greed](https://github.com/jvdmeij/trmnl-crypto-fear-and-greed) - The fear & greed using the API from Alternate by jvdmeij
 - [Cyber Security conferences](https://github.com/AlixAbbasi/TRMNL-Sec-Deadlines) - Cyber security conferences deadlines by AlixAbbasi
 - [Daily comic xkcd](https://github.com/SnarfulSolutionsGroup/TRMNL-Plugins/blob/main/TRMNL_Comic.md) - Daily Comic from xkcd by SnarfulSolutionsGroup
 - [Dcache](https://github.com/ramdacxp/dcache) - Visualize Selected Home Assistant entities on TRMNL by ramdacxp
@@ -82,6 +84,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [KEXP Playlist](https://github.com/modestindustries/TRMNL-Projects/tree/main/TRMNL-KEXP-Playlist) - Display KEXP playlist on trmnl by modestindustries
 - [Ground Control ISS data](https://github.com/vanbrabantf/Ground-Control-TRMNL) - Fetches data from the Internation Space Station by vanbrabantf
 - [Libra weight tracker](https://github.com/sejtenik/trmnl-libra-cloud-plugin) - by sejtenik
+- [Magic 8-Ball](https://github.com/jvdmeij/trmnl-magic-8-ball) - Let the Magic 8-Ball make your decisions by jvdmeij
 - [Marvel Character of the Day](https://github.com/MarkHopper24/Marvel-Character-of-the-Day/) - by MarkHopper24
 - [MBTA Transport](https://github.com/RyanAngelo/trmnl-mbta) - A real-time MBTA (Massachusetts Bay Transportation Authority) schedule display application by RyanAngelo
 - [Metar Weather](https://github.com/schrockwell/trmnl-metar) - Displaying Weather conditions for a METAR station (METeorologial Aerodrome Reports), data is provided by NOAA's Aviation Weather Center by schrockwell
@@ -112,6 +115,9 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Word clock](https://github.com/delhoume/trmnl_wordclock) - Word clock by delhoume
 - [Words of the Day](https://github.com/sejtenik/trmnl-words-of-the-day-plugin) - retrieves the Word of the Day from various online dictionaries by sejtenik
 - [YNAB](https://github.com/turnervink/ynab-for-trmnl) - See your YNAB budget (You Need a Budget) on your TRMNL by turnervink
+- [Your Life in Weeks](https://github.com/jvdmeij/trmnl-your-life-in-weeks) - See the amount of weeks you have lived, and will live by jvdmeij
+- [Winnie the Pooh quote](https://github.com/jvdmeij/trmnl-winnie-the-pooh) A random quote by Winnie or one of his friends by jvdmeij
+- [Word Clock](https://github.com/jvdmeij/trmnl-word-clock) - The Word Clock tells in simple words what the time is by jvdmeij
 
 ## 👾 Extra's
 - [TRMNL - Local Web Server](https://github.com/ohAnd/trmnlServer) - Python local webserver for TRMNL by ohAnd
