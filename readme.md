@@ -80,7 +80,9 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Hacker News](https://github.com/usetrmnl/plugins/tree/master/lib/hacker_news) - Hacker News display by usetrmnl
 - [HACS Sensor push](https://github.com/gitstua/trmnl-sensor-push) - A HACS custom component for Home Assistant that pushes data to TRMNL.com
 - [Home Assistant](https://github.com/ididit99/useTRMNL-Home-Assistant) - Sending Home Assistant data to TRMNL via a webhook by ididit99
+- [Home Assistant Addon](https://github.com/ohAnd/trmnlServer_ha_addon) - Home Assistant addon for TRMNL by ohAnd
 - [ICS Calendar](https://github.com/jfsso/trmnl-calendar) - fetches an ICS calendar and display events in a multi-column list format by jfsso
+- [iCal Calendar Flask web service](https://github.com/shyamvenugopalan/trmnl-ical-calendar-server) - iCal Flask web service by shyamvenugopalan
 - [KEXP Playlist](https://github.com/modestindustries/TRMNL-Projects/tree/main/TRMNL-KEXP-Playlist) - Display KEXP playlist on trmnl by modestindustries
 - [Ground Control ISS data](https://github.com/vanbrabantf/Ground-Control-TRMNL) - Fetches data from the Internation Space Station by vanbrabantf
 - [Libra weight tracker](https://github.com/sejtenik/trmnl-libra-cloud-plugin) - by sejtenik
@@ -100,6 +102,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Strava goals](https://github.com/vinayak-mehta/trmnl-strava-goals) - Strava goals by vinayak-mehta
 - [STRMNL - Strava activties](https://strmnl.app/) - Strava activities and stats by paneq
 - [Surf (surfline) display](https://github.com/pcifaldi/surf_api) - real-time surf and tide data display by pcifaldi
+- [Swedish Weather Service](https://github.com/frjo/usetrmnl-plugins/tree/main/smhi) - Swedish weather service by frjo
 - [Tempest Weather Station](https://github.com/usetrmnl/plugins/tree/master/lib/tempest_weather_station) - Tempest Weather station by usetrmnl
 - [TRMNL Quotes](https://github.com/michaelgilch/trmnl-quotes) - Inspirational Quotes by michaelgilch
 - [TRMNL Tides](https://github.com/UpDryTwist/trmnl-tides) - Generate local tides screen on your TRMNL by UpDryTwist
@@ -121,6 +124,8 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Your Life in Weeks](https://github.com/jvdmeij/trmnl-your-life-in-weeks) - See the amount of weeks you have lived, and will live by jvdmeij
 
 ## 👾 Extra's
+- [BYOS Server](https://github.com/ghcpuman902/byos-nextjs) - BYOS (Build Your Own Server Next.js), a community-maintained library by ghcpuman902
+- [Laravel Server](https://github.com/bnussbau/laravel-trmnl-server) - TRMNL server implementation in Laravel by bnussbau
 - [TRMNL - Local Web Server](https://github.com/ohAnd/trmnlServer) - Python local webserver for TRMNL by ohAnd
 - [TRMNL - 3D printable mounts](https://github.com/usetrmnl/mounts) - 3D printable mounts (fridge magnet, corner bracket) by usetrmnl
 - [TRMNL preview  - local development server](https://github.com/schrockwell/trmnl_preview) - A local server that enables local development of plugins using Liquid templates by schrokwell
