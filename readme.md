@@ -98,6 +98,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Steam deals](https://github.com/subtype-space/trmnl-steam-deals) - Displays top rated Steam deals 
 - [Stock price](https://github.com/usetrmnl/plugins/tree/master/lib/stock_price) - Stock price by trmnl
 - [Strava goals](https://github.com/vinayak-mehta/trmnl-strava-goals) - Strava goals by vinayak-mehta
+- [STRMNL - Strava activties](https://strmnl.app/) - Strava activities and stats by paneq
 - [Surf (surfline) display](https://github.com/pcifaldi/surf_api) - real-time surf and tide data display by pcifaldi
 - [Tempest Weather Station](https://github.com/usetrmnl/plugins/tree/master/lib/tempest_weather_station) - Tempest Weather station by usetrmnl
 - [TRMNL Quotes](https://github.com/michaelgilch/trmnl-quotes) - Inspirational Quotes by michaelgilch
