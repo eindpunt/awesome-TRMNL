@@ -111,13 +111,13 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Valorant Tracker](https://github.com/MarkHopper24/Valorant-Tools) - Track your Valorant game stats by MarkHopper24
 - [Washington Post frontpage](https://github.com/thamarnan/TRMNL-NYT) - Daily Washington Post frontpage by thamarnan
 - [Weekly goal tracker / Habit tracker](https://github.com/azjgard/trmnl-weekly-goal-tracker) - Weekly goal tracker by azjgard
+- [Winnie the Pooh quote](https://github.com/jvdmeij/trmnl-winnie-the-pooh) A random quote by Winnie or one of his friends by jvdmeij
 - [Woocommerce](https://github.com/yannicschuller/trmnl-woocommerce) - Fetches store data from WooCommerce API and displays by yannischuller
 - [Word clock](https://github.com/delhoume/trmnl_wordclock) - Word clock by delhoume
+- [Word Clock](https://github.com/jvdmeij/trmnl-word-clock) - The Word Clock tells in simple words what the time is by jvdmeij
 - [Words of the Day](https://github.com/sejtenik/trmnl-words-of-the-day-plugin) - retrieves the Word of the Day from various online dictionaries by sejtenik
 - [YNAB](https://github.com/turnervink/ynab-for-trmnl) - See your YNAB budget (You Need a Budget) on your TRMNL by turnervink
 - [Your Life in Weeks](https://github.com/jvdmeij/trmnl-your-life-in-weeks) - See the amount of weeks you have lived, and will live by jvdmeij
-- [Winnie the Pooh quote](https://github.com/jvdmeij/trmnl-winnie-the-pooh) A random quote by Winnie or one of his friends by jvdmeij
-- [Word Clock](https://github.com/jvdmeij/trmnl-word-clock) - The Word Clock tells in simple words what the time is by jvdmeij
 
 ## 👾 Extra's
 - [TRMNL - Local Web Server](https://github.com/ohAnd/trmnlServer) - Python local webserver for TRMNL by ohAnd
