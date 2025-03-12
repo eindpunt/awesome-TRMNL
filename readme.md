@@ -85,6 +85,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [iCal Calendar Flask web service](https://github.com/shyamvenugopalan/trmnl-ical-calendar-server) - iCal Flask web service by shyamvenugopalan
 - [KEXP Playlist](https://github.com/modestindustries/TRMNL-Projects/tree/main/TRMNL-KEXP-Playlist) - Display KEXP playlist on trmnl by modestindustries
 - [Ground Control ISS data](https://github.com/vanbrabantf/Ground-Control-TRMNL) - Fetches data from the Internation Space Station by vanbrabantf
+- [LastFM last listened](https://github.com/monsieurm/trmnl-lastfm) - Get LastFM last track listened and other user infos by monsieurm
 - [Libra weight tracker](https://github.com/sejtenik/trmnl-libra-cloud-plugin) - by sejtenik
 - [Magic 8-Ball](https://github.com/jvdmeij/trmnl-magic-8-ball) - Let the Magic 8-Ball make your decisions by jvdmeij
 - [Marvel Character of the Day](https://github.com/MarkHopper24/Marvel-Character-of-the-Day/) - by MarkHopper24
@@ -103,6 +104,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [STRMNL - Strava activties](https://strmnl.app/) - Strava activities and stats by paneq
 - [Surf (surfline) display](https://github.com/pcifaldi/surf_api) - real-time surf and tide data display by pcifaldi
 - [Swedish Weather Service](https://github.com/frjo/usetrmnl-plugins/tree/main/smhi) - Swedish weather service by frjo
+- [SV Eevee Prices (Pokemon)](https://github.com/lannonbr/trmnl-sv-eevee-prices) - Displays Eeveelution prices from Terastal Festival ex & Prismatic Evolutions
 - [Tempest Weather Station](https://github.com/usetrmnl/plugins/tree/master/lib/tempest_weather_station) - Tempest Weather station by usetrmnl
 - [TRMNL Quotes](https://github.com/michaelgilch/trmnl-quotes) - Inspirational Quotes by michaelgilch
 - [TRMNL Tides](https://github.com/UpDryTwist/trmnl-tides) - Generate local tides screen on your TRMNL by UpDryTwist
@@ -115,22 +117,29 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Valorant Tracker](https://github.com/MarkHopper24/Valorant-Tools) - Track your Valorant game stats by MarkHopper24
 - [Washington Post frontpage](https://github.com/thamarnan/TRMNL-NYT) - Daily Washington Post frontpage by thamarnan
 - [Weekly goal tracker / Habit tracker](https://github.com/azjgard/trmnl-weekly-goal-tracker) - Weekly goal tracker by azjgard
+- [Who's that Pokemon](https://github.com/sriniketh/trmnl-plugin-whos-that-pokemon) - Displays a random Pokémon every day by sriniketh
 - [Winnie the Pooh quote](https://github.com/jvdmeij/trmnl-winnie-the-pooh) A random quote by Winnie or one of his friends by jvdmeij
 - [Woocommerce](https://github.com/yannicschuller/trmnl-woocommerce) - Fetches store data from WooCommerce API and displays by yannischuller
 - [Word clock](https://github.com/delhoume/trmnl_wordclock) - Word clock by delhoume
 - [Word Clock](https://github.com/jvdmeij/trmnl-word-clock) - The Word Clock tells in simple words what the time is by jvdmeij
 - [Words of the Day](https://github.com/sejtenik/trmnl-words-of-the-day-plugin) - retrieves the Word of the Day from various online dictionaries by sejtenik
 - [YNAB](https://github.com/turnervink/ynab-for-trmnl) - See your YNAB budget (You Need a Budget) on your TRMNL by turnervink
+- [Year in Progress](https://github.com/monsieurm/trmnl-yearinprogress) - Shows the progress of the year (dots or bar) by monsieurm
 - [Your Life in Weeks](https://github.com/jvdmeij/trmnl-your-life-in-weeks) - See the amount of weeks you have lived, and will live by jvdmeij
 
 ## 👾 Extra's
-- [BYOS Server](https://github.com/ghcpuman902/byos-nextjs) - BYOS (Build Your Own Server Next.js), a community-maintained library by ghcpuman902
+- [Alternative Firmware](https://github.com/covercash2/trmnl_rs) - An alternative firmware for the official trmnl firmware with Rust and Nix.
+- [BYOS Server (Next.js)](https://github.com/ghcpuman902/byos-nextjs) - BYOS (Build Your Own Server Next.js), a community-maintained library by ghcpuman902
+- [BYOS Server (Ruby / Hanami)](https://github.com/usetrmnl/byos_hanami) - YOS (Build Your Own Server Ruby) by usetrmnl
+- [Open Source server](https://github.com/GioPan04/opntrmnl/) - An open-source self-hostable alternative for trmnl plugins by GioPan04
 - [Laravel Server](https://github.com/bnussbau/laravel-trmnl-server) - TRMNL server implementation in Laravel by bnussbau
 - [TRMNL - Local Web Server](https://github.com/ohAnd/trmnlServer) - Python local webserver for TRMNL by ohAnd
 - [TRMNL - 3D printable mounts](https://github.com/usetrmnl/mounts) - 3D printable mounts (fridge magnet, corner bracket) by usetrmnl
 - [TRMNL preview  - local development server](https://github.com/schrockwell/trmnl_preview) - A local server that enables local development of plugins using Liquid templates by schrokwell
 - [TRMNL preview docker 🐳 - local dev server](https://hub.docker.com/r/schrockwell/trmnlp) - Docker image for the local dev server by schrokwell
 - [Render TRMNL on WaveShare screen](https://github.com/tobias-theobald/epd-node-trmnl) - Render your trmnl screen to your waveshare 7.5" V2 e-ink display on a raspberry pi
+- [React based renderer](https://github.com/pascal-giguere/react-trmnl) - A React-based renderer (WIP) by pascal-giguere
+- [Server for dashboard](https://github.com/donmccaughey/trmnl_srv) - Python based server for TRMNL dashboard
 - [Build your own TRMNL](https://github.com/ruohki/makeshift-trmnl) - Makeshift edition
 <!-- END CONTENT -->
 
