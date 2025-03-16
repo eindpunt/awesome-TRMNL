@@ -62,7 +62,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Apple Reminders](https://github.com/sdjmchattie/trmnl-apple-reminders) - display Apple Reminders by sdjmchattie
 - [Block Clock](https://github.com/tyler-dot-earth/trmnl-notblockclock) - a "block clock" by tyler-dot-earth
 - [Bring!](https://github.com/yshrdbrn/trmnl-bring-plugin) - Display your Bring! shopping list on TRMNL by yshrdbrn
-- [Buienradar](https://github.com/Akisame-AI/TRMNL_buienradar) - Display the weather from Buienradar on your TRMNL
+- [Buienradar](https://github.com/Akisame-AI/TRMNL_buienradar) - Display the weather from Buienradar on your TRMNL by Akisane-AI
 - [Chuck Norris facts](https://github.com/OptimumMeans/TRMNL-Chuck-Norris) - Random Chuck Norris facts by OptimumMeans
 - [Countdown plugin](https://github.com/jvdmeij/trmnl-countdown) - Countdown to a specific date, accompanied by an emoji and text by jvdmeij
 - [Crypto Fear & Greed](https://github.com/jvdmeij/trmnl-crypto-fear-and-greed) - The fear & greed using the API from Alternate by jvdmeij
@@ -78,7 +78,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Google Keep todo list](https://github.com/ellipticview/trmnl-google-keep) - Google Keep todo list on your TRMNL by ellipticview
 - [Habitify](https://github.com/sejtenik/trmnl-habitify-plugin) - by sejtenik
 - [Hacker News](https://github.com/usetrmnl/plugins/tree/master/lib/hacker_news) - Hacker News display by usetrmnl
-- [HACS Sensor push](https://github.com/gitstua/trmnl-sensor-push) - A HACS custom component for Home Assistant that pushes data to TRMNL.com
+- [HACS Sensor push](https://github.com/gitstua/trmnl-sensor-push) - A HACS custom component for Home Assistant that pushes data to TRMNL.com by gitstua
 - [Home Assistant](https://github.com/ididit99/useTRMNL-Home-Assistant) - Sending Home Assistant data to TRMNL via a webhook by ididit99
 - [Home Assistant Addon](https://github.com/ohAnd/trmnlServer_ha_addon) - Home Assistant addon for TRMNL by ohAnd
 - [ICS Calendar](https://github.com/jfsso/trmnl-calendar) - fetches an ICS calendar and display events in a multi-column list format by jfsso
@@ -98,13 +98,13 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Obsidian](https://github.com/frethop/obsidian-TRMNL) - Sample plugin to show Obsidian data on trmnl by frethop
 - [Remember The Milk](https://github.com/sejtenik/trmnl-rtm-plugin) - by sejtenik
 - [Shipping Tracker](https://github.com/OptimumMeans/TRMNL-Ship-Tracker) - Ship tracker using VesselFinder API by OptimumMeans
-- [Steam deals](https://github.com/subtype-space/trmnl-steam-deals) - Displays top rated Steam deals 
+- [Steam deals](https://github.com/subtype-space/trmnl-steam-deals) - Displays top rated Steam deals by subtype-space
 - [Stock price](https://github.com/usetrmnl/plugins/tree/master/lib/stock_price) - Stock price by trmnl
 - [Strava goals](https://github.com/vinayak-mehta/trmnl-strava-goals) - Strava goals by vinayak-mehta
 - [STRMNL - Strava activties](https://strmnl.app/) - Strava activities and stats by paneq
 - [Surf (surfline) display](https://github.com/pcifaldi/surf_api) - real-time surf and tide data display by pcifaldi
 - [Swedish Weather Service](https://github.com/frjo/usetrmnl-plugins/tree/main/smhi) - Swedish weather service by frjo
-- [SV Eevee Prices (Pokemon)](https://github.com/lannonbr/trmnl-sv-eevee-prices) - Displays Eeveelution prices from Terastal Festival ex & Prismatic Evolutions
+- [SV Eevee Prices (Pokemon)](https://github.com/lannonbr/trmnl-sv-eevee-prices) - Displays Eeveelution prices from Terastal Festival ex & Prismatic Evolutions by lannonbr
 - [Tempest Weather Station](https://github.com/usetrmnl/plugins/tree/master/lib/tempest_weather_station) - Tempest Weather station by usetrmnl
 - [TRMNL Quotes](https://github.com/michaelgilch/trmnl-quotes) - Inspirational Quotes by michaelgilch
 - [TRMNL Tides](https://github.com/UpDryTwist/trmnl-tides) - Generate local tides screen on your TRMNL by UpDryTwist
@@ -128,7 +128,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Your Life in Weeks](https://github.com/jvdmeij/trmnl-your-life-in-weeks) - See the amount of weeks you have lived, and will live by jvdmeij
 
 ## 👾 Extra's
-- [Alternative Firmware](https://github.com/covercash2/trmnl_rs) - An alternative firmware for the official trmnl firmware with Rust and Nix.
+- [Alternative Firmware](https://github.com/covercash2/trmnl_rs) - An alternative firmware for the official trmnl firmware with Rust and Nix by covercash2
 - [BYOS Server (Next.js)](https://github.com/ghcpuman902/byos-nextjs) - BYOS (Build Your Own Server Next.js), a community-maintained library by ghcpuman902
 - [BYOS Server (Ruby / Hanami)](https://github.com/usetrmnl/byos_hanami) - YOS (Build Your Own Server Ruby) by usetrmnl
 - [Open Source server](https://github.com/GioPan04/opntrmnl/) - An open-source self-hostable alternative for trmnl plugins by GioPan04
@@ -139,8 +139,8 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [TRMNL preview docker 🐳 - local dev server](https://hub.docker.com/r/schrockwell/trmnlp) - Docker image for the local dev server by schrokwell
 - [Render TRMNL on WaveShare screen](https://github.com/tobias-theobald/epd-node-trmnl) - Render your trmnl screen to your waveshare 7.5" V2 e-ink display on a raspberry pi
 - [React based renderer](https://github.com/pascal-giguere/react-trmnl) - A React-based renderer (WIP) by pascal-giguere
-- [Server for dashboard](https://github.com/donmccaughey/trmnl_srv) - Python based server for TRMNL dashboard
-- [Build your own TRMNL](https://github.com/ruohki/makeshift-trmnl) - Makeshift edition
+- [Server for dashboard](https://github.com/donmccaughey/trmnl_srv) - Python based server for TRMNL dashboard by donmccaughey
+- [Build your own TRMNL](https://github.com/ruohki/makeshift-trmnl) - Makeshift edition by ruohki
 <!-- END CONTENT -->
 
 ## 📽️ Video's
