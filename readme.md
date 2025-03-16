@@ -89,6 +89,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Libra weight tracker](https://github.com/sejtenik/trmnl-libra-cloud-plugin) - by sejtenik
 - [Magic 8-Ball](https://github.com/jvdmeij/trmnl-magic-8-ball) - Let the Magic 8-Ball make your decisions by jvdmeij
 - [Marvel Character of the Day](https://github.com/MarkHopper24/Marvel-Character-of-the-Day/) - by MarkHopper24
+- [Marvel Comic Tracker](https://github.com/Saious119/trmnl-marvel-comic-tracker) - Based on a user defined list display what Marvel comics are coming out this week by Saious119
 - [MBTA Transport](https://github.com/RyanAngelo/trmnl-mbta) - A real-time MBTA (Massachusetts Bay Transportation Authority) schedule display application by RyanAngelo
 - [Metar Weather](https://github.com/schrockwell/trmnl-metar) - Displaying Weather conditions for a METAR station (METeorologial Aerodrome Reports), data is provided by NOAA's Aviation Weather Center by schrockwell
 - [MEH Deals](https://github.com/ajchili/meh-deals-trmnl-plugin) - Display the daily deal(s) from meh.com by ajchili
