@@ -95,7 +95,9 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [MEH Deals](https://github.com/ajchili/meh-deals-trmnl-plugin) - Display the daily deal(s) from meh.com by ajchili
 - [Moonphase display](https://github.com/schrockwell/trmnl-moonphase) - Displays the current Moon Phase by schrockwell
 - [NASA Deep Space Network](https://github.com/schrockwell/trmnl-dsn) - Deep Space Network statistics by schrockwel
+- [NHL Next game](https://github.com/cbdm/trmnl-plugins/tree/main/nhl-teams-next-game) - NHL Next game by cbdm
 - [ÖBB Train monitor](https://github.com/bnussbau/trmnl-train-monitor) - Austrian ÖBB / OBB Train monitor by bnussbau
+- [OGhunt](https://github.com/Hacksore/oghunt-trmnl) - A plugin to show the top five product hunt launches without AI by Hacksore
 - [Obsidian](https://github.com/frethop/obsidian-TRMNL) - Sample plugin to show Obsidian data on trmnl by frethop
 - [Remember The Milk](https://github.com/sejtenik/trmnl-rtm-plugin) - by sejtenik
 - [Shipping Tracker](https://github.com/OptimumMeans/TRMNL-Ship-Tracker) - Ship tracker using VesselFinder API by OptimumMeans
@@ -132,6 +134,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Alternative Firmware](https://github.com/covercash2/trmnl_rs) - An alternative firmware for the official trmnl firmware with Rust and Nix by covercash2
 - [BYOS Server (Next.js)](https://github.com/ghcpuman902/byos-nextjs) - BYOS (Build Your Own Server Next.js), a community-maintained library by ghcpuman902
 - [BYOS Server (Ruby / Hanami)](https://github.com/usetrmnl/byos_hanami) - YOS (Build Your Own Server Ruby) by usetrmnl
+- [Chrome extension](http://github.com/usetrmnl/trmnl-chrome) - A Chrome extension that displays images from TRMNL's API in your new tab page by usetrmnl
 - [Open Source server](https://github.com/GioPan04/opntrmnl/) - An open-source self-hostable alternative for trmnl plugins by GioPan04
 - [Laravel Server](https://github.com/bnussbau/laravel-trmnl-server) - TRMNL server implementation in Laravel by bnussbau
 - [TRMNL - Local Web Server](https://github.com/ohAnd/trmnlServer) - Python local webserver for TRMNL by ohAnd
