@@ -36,7 +36,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 
 ## 📄 Official Docs & Quickstarts
 - [useTRMNL](https://docs.usetrmnl.com/)
-- [TRMNL DIY server](https://github.com/usetrmnl/byos_sinatra) - Self hosted screen generation in Ruby/Sinatra
+- [Terminus](https://github.com/usetrmnl/byos_hanami) - Self hosted screen generation in Ruby/Hanami maintained by the TRMNL team
 
 ## ⚡Firmware & Firmware flashing
 - [TRMNL firmware](https://github.com/usetrmnl/firmware)
