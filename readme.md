@@ -72,6 +72,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Digital Archaeologist](https://github.com/OptimumMeans/TRMNL-Digital-Archaeologist) - Digital Archaeologist by OptimumMeans
 - [Discord Bot](https://github.com/OptimumMeans/TRMNL-Discord-Bot) - Discord bot by OptimumMeans
 - [FBI most wanted](https://github.com/OptimumMeans/TRMNL-FBI-Most-Wanted) - Shows information about FBI Most Wanted fugitives, randomly selected by OptimumMeans
+- [Focus Blocks](https://github.com/btertoolen/trmnl_focus_blocks_plugin) - Focus Time blocks by btertoolen
 - [Fruit Facts](https://github.com/OptimumMeans/TRMNL-Fruit-Facts) - Fruit facts by OptimumMeans
 - [GitHub Commit Graph](https://github.com/usetrmnl/plugins/tree/master/lib/github_commit_graph) - GitHub Commit tracker graph by usetrmnl
 - [Goals Manager](https://github.com/nmartinovic/trmnl-goals-manager) - by nmartinovic
@@ -131,6 +132,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Your Life in Weeks](https://github.com/jvdmeij/trmnl-your-life-in-weeks) - See the amount of weeks you have lived, and will live by jvdmeij
 
 ## 👾 Extra's
+- [Android mirror](https://github.com/hossain-khan/android-trmnl-display) - This mirrors existing TRMNL's content to your Android device by hossain-khan
 - [Alternative Firmware](https://github.com/covercash2/trmnl_rs) - An alternative firmware for the official trmnl firmware with Rust and Nix by covercash2
 - [BYOS Server (Next.js)](https://github.com/ghcpuman902/byos-nextjs) - BYOS (Build Your Own Server Next.js), a community-maintained library by ghcpuman902
 - [BYOS Server (Ruby / Hanami)](https://github.com/usetrmnl/byos_hanami) - YOS (Build Your Own Server Ruby) by usetrmnl
