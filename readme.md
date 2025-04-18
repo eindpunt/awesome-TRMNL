@@ -60,6 +60,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Ambient Weather display](https://github.com/evandhoffman/trmnl-pws) - Read data from my ambientweather.net weather station by evandhoffman
 - [American College Football top 10](https://github.com/SnarfulSolutionsGroup/TRMNL-Plugins/blob/main/TRMNL_CFB.md) - College Football Top 10 Ranking by SnarfulSolutionsGroup
 - [Apple Reminders](https://github.com/sdjmchattie/trmnl-apple-reminders) - display Apple Reminders by sdjmchattie
+- [Berlin's BVG Transit](https://github.com/danmunoz/trmnl-bvg-transit) - Monitors the status of Berlin's BVG Public transportation by danmunoz
 - [Block Clock](https://github.com/tyler-dot-earth/trmnl-notblockclock) - a "block clock" by tyler-dot-earth
 - [Bring!](https://github.com/yshrdbrn/trmnl-bring-plugin) - Display your Bring! shopping list on TRMNL by yshrdbrn
 - [Buienradar](https://github.com/Akisame-AI/TRMNL_buienradar) - Display the weather from Buienradar on your TRMNL by Akisane-AI
@@ -101,6 +102,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [OGhunt](https://github.com/Hacksore/oghunt-trmnl) - A plugin to show the top five product hunt launches without AI by Hacksore
 - [Obsidian](https://github.com/frethop/obsidian-TRMNL) - Sample plugin to show Obsidian data on trmnl by frethop
 - [Remember The Milk](https://github.com/sejtenik/trmnl-rtm-plugin) - by sejtenik
+- [Salah Prayer Times](https://github.com/abshirahmed/trmnl-salah-times) - by abshirahmed
 - [Shipping Tracker](https://github.com/OptimumMeans/TRMNL-Ship-Tracker) - Ship tracker using VesselFinder API by OptimumMeans
 - [Steam deals](https://github.com/subtype-space/trmnl-steam-deals) - Displays top rated Steam deals by subtype-space
 - [Stock price](https://github.com/usetrmnl/plugins/tree/master/lib/stock_price) - Stock price by trmnl
@@ -121,6 +123,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Valorant Tracker](https://github.com/MarkHopper24/Valorant-Tools) - Track your Valorant game stats by MarkHopper24
 - [Washington Post frontpage](https://github.com/thamarnan/TRMNL-NYT) - Daily Washington Post frontpage by thamarnan
 - [Weekly goal tracker / Habit tracker](https://github.com/azjgard/trmnl-weekly-goal-tracker) - Weekly goal tracker by azjgard
+- [Whoop](https://github.com/sapochat/whoop-trmnl) - Whoop health recovery dashboard by sapochat
 - [Who's that Pokemon](https://github.com/sriniketh/trmnl-plugin-whos-that-pokemon) - Displays a random Pokémon every day by sriniketh
 - [Winnie the Pooh quote](https://github.com/jvdmeij/trmnl-winnie-the-pooh) A random quote by Winnie or one of his friends by jvdmeij
 - [Woocommerce](https://github.com/yannicschuller/trmnl-woocommerce) - Fetches store data from WooCommerce API and displays by yannischuller
