@@ -112,6 +112,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Swedish Weather Service](https://github.com/frjo/usetrmnl-plugins/tree/main/smhi) - Swedish weather service by frjo
 - [SV Eevee Prices (Pokemon)](https://github.com/lannonbr/trmnl-sv-eevee-prices) - Displays Eeveelution prices from Terastal Festival ex & Prismatic Evolutions by lannonbr
 - [Tempest Weather Station](https://github.com/usetrmnl/plugins/tree/master/lib/tempest_weather_station) - Tempest Weather station by usetrmnl
+- [Teslamate Reporter](https://github.com/eden881/trmnl-teslamate-reporter) - Display your Tesla statistics on your TRMNL by eden881
 - [TRMNL Quotes](https://github.com/michaelgilch/trmnl-quotes) - Inspirational Quotes by michaelgilch
 - [TRMNL Tides](https://github.com/UpDryTwist/trmnl-tides) - Generate local tides screen on your TRMNL by UpDryTwist
 - [Tautulli Dashboard](https://github.com/hosfordryan/trmnl-tautulli-dash) - Tautulli Dashboard (Plex server user metrics) by hosfordryan
@@ -150,6 +151,8 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [React based renderer](https://github.com/pascal-giguere/react-trmnl) - A React-based renderer (WIP) by pascal-giguere
 - [Server for dashboard](https://github.com/donmccaughey/trmnl_srv) - Python based server for TRMNL dashboard by donmccaughey
 - [Build your own TRMNL](https://github.com/ruohki/makeshift-trmnl) - Makeshift edition by ruohki
+- [Convert Kindle to TRMNL](https://github.com/usetrmnl/trmnl-kindle) - Turn your Kindle into TRMNL
+- [TRMNL tricks](https://github.com/yunruse/trmnl-tricks) - TRMNL tips and tricks
 <!-- END CONTENT -->
 
 ## 📽️ Video's
