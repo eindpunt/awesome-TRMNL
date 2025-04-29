@@ -59,6 +59,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [useTRMNL](https://github.com/usetrmnl/plugins) - Featured plugins by useTRMNL
 - [Ambient Weather display](https://github.com/evandhoffman/trmnl-pws) - Read data from my ambientweather.net weather station by evandhoffman
 - [American College Football top 10](https://github.com/SnarfulSolutionsGroup/TRMNL-Plugins/blob/main/TRMNL_CFB.md) - College Football Top 10 Ranking by SnarfulSolutionsGroup
+- [Anime of the Day](https://github.com/Saious119/trmnl-anime-of-the-day/tree/main) - Displays a random anime of the day from Anilist's public API
 - [Apple Reminders](https://github.com/sdjmchattie/trmnl-apple-reminders) - display Apple Reminders by sdjmchattie
 - [Berlin's BVG Transit](https://github.com/danmunoz/trmnl-bvg-transit) - Monitors the status of Berlin's BVG Public transportation by danmunoz
 - [Block Clock](https://github.com/tyler-dot-earth/trmnl-notblockclock) - a "block clock" by tyler-dot-earth
