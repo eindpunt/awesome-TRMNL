@@ -60,6 +60,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Ambient Weather display](https://github.com/evandhoffman/trmnl-pws) - Read data from my ambientweather.net weather station by evandhoffman
 - [American College Football top 10](https://github.com/SnarfulSolutionsGroup/TRMNL-Plugins/blob/main/TRMNL_CFB.md) - College Football Top 10 Ranking by SnarfulSolutionsGroup
 - [Anime of the Day](https://github.com/Saious119/trmnl-anime-of-the-day/tree/main) - Displays a random anime of the day from Anilist's public API by Saious119
+- [Apple Photos](https://github.com/zegl/trmnl-apple-photos) - display Apple Photos by zegl
 - [Apple Reminders](https://github.com/sdjmchattie/trmnl-apple-reminders) - display Apple Reminders by sdjmchattie
 - [Berlin's BVG Transit](https://github.com/danmunoz/trmnl-bvg-transit) - Monitors the status of Berlin's BVG Public transportation by danmunoz
 - [Block Clock](https://github.com/tyler-dot-earth/trmnl-notblockclock) - a "block clock" by tyler-dot-earth
@@ -79,6 +80,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [GitHub Commit Graph](https://github.com/usetrmnl/plugins/tree/master/lib/github_commit_graph) - GitHub Commit tracker graph by usetrmnl
 - [Goals Manager](https://github.com/nmartinovic/trmnl-goals-manager) - by nmartinovic
 - [Google Keep todo list](https://github.com/ellipticview/trmnl-google-keep) - Google Keep todo list on your TRMNL by ellipticview
+- [Fathom Analytics](https://github.com/rknightuk/trmnl-fathom-analytics) - Fathom Analytics plugi by rknightuk
 - [Habitify](https://github.com/sejtenik/trmnl-habitify-plugin) - by sejtenik
 - [Hacker News](https://github.com/usetrmnl/plugins/tree/master/lib/hacker_news) - Hacker News display by usetrmnl
 - [HACS Sensor push](https://github.com/gitstua/trmnl-sensor-push) - A HACS custom component for Home Assistant that pushes data to TRMNL.com by gitstua
@@ -103,6 +105,8 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [ÖBB Train monitor](https://github.com/bnussbau/trmnl-train-monitor) - Austrian ÖBB / OBB Train monitor by bnussbau
 - [OGhunt](https://github.com/Hacksore/oghunt-trmnl) - A plugin to show the top five product hunt launches without AI by Hacksore
 - [Obsidian](https://github.com/frethop/obsidian-TRMNL) - Sample plugin to show Obsidian data on trmnl by frethop
+- [Pi-Hole stats](https://github.com/JBertaux/pi-trmnl) - Pi-Hole stats by JBertaux
+- [Postmark challenge](https://github.com/schrockwell/trmnl-postmark-challenge) - Postmark challenges by schrockwell
 - [Remember The Milk](https://github.com/sejtenik/trmnl-rtm-plugin) - by sejtenik
 - [Salah Prayer Times](https://github.com/abshirahmed/trmnl-salah-times) - by abshirahmed
 - [Shipping Tracker](https://github.com/OptimumMeans/TRMNL-Ship-Tracker) - Ship tracker using VesselFinder API by OptimumMeans
@@ -123,6 +127,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Tidbyt sync](https://github.com/jvivona/tidbyt-data) - Synchronize your Tidbyt data by jvivona
 - [Todoist Sync](https://github.com/Nynir/trmnl-todoist) - Synchronize your Todoist tasks by Nynir
 - [Transport for London status](https://github.com/stevekennedyuk/trmnl-tfl-status) - Transport for London status by stevekennedyuk
+- [TV Guide KT.com](https://github.com/JJGrootveld/trmnl-kr-tvguide) - TV Guide Plugin - KT Schedules by JJGrootveld
 - [Valorant Tracker](https://github.com/MarkHopper24/Valorant-Tools) - Track your Valorant game stats by MarkHopper24
 - [Washington Post frontpage](https://github.com/thamarnan/TRMNL-NYT) - Daily Washington Post frontpage by thamarnan
 - [Weekly goal tracker / Habit tracker](https://github.com/azjgard/trmnl-weekly-goal-tracker) - Weekly goal tracker by azjgard
@@ -135,7 +140,9 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Words of the Day](https://github.com/sejtenik/trmnl-words-of-the-day-plugin) - retrieves the Word of the Day from various online dictionaries by sejtenik
 - [YNAB](https://github.com/turnervink/ynab-for-trmnl) - See your YNAB budget (You Need a Budget) on your TRMNL by turnervink
 - [Year in Progress](https://github.com/monsieurm/trmnl-yearinprogress) - Shows the progress of the year (dots or bar) by monsieurm
+- [YoLink Temperature](https://github.com/erikbuild/trmnl-yolink-temperature) - YoLink temperature sensor by erikbuild
 - [Your Life in Weeks](https://github.com/jvdmeij/trmnl-your-life-in-weeks) - See the amount of weeks you have lived, and will live by jvdmeij
+- [Zonneplan](https://github.com/LeipeLeon/zonneplan) - 🇳🇱 Zonneplan dynamic price tracker by LeipeLeon
 
 ## 👾 Extra's
 - [Android mirror](https://github.com/hossain-khan/android-trmnl-display) - This mirrors existing TRMNL's content to your Android device by hossain-khan
@@ -155,6 +162,9 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Build your own TRMNL](https://github.com/ruohki/makeshift-trmnl) - Makeshift edition by ruohki
 - [Convert Kindle to TRMNL](https://github.com/usetrmnl/trmnl-kindle) - Turn your Kindle into TRMNL
 - [TRMNL tricks](https://github.com/yunruse/trmnl-tricks) - TRMNL tips and tricks
+- [Kuroshiro](https://github.com/PhyberApex/kuroshiro) - Kuroshiro is an open-source BYOS (Bring Your Own Server) solution
+- [LocalPaper](https://github.com/medo64/LocalPaper) - Local composer for Trmnl device by medo64
+
 <!-- END CONTENT -->
 
 ## 📽️ Video's
