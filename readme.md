@@ -91,6 +91,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [KEXP Playlist](https://github.com/modestindustries/TRMNL-Projects/tree/main/TRMNL-KEXP-Playlist) - Display KEXP playlist on trmnl by modestindustries
 - [Ground Control ISS data](https://github.com/vanbrabantf/Ground-Control-TRMNL) - Fetches data from the Internation Space Station by vanbrabantf
 - [LastFM last listened](https://github.com/monsieurm/trmnl-lastfm) - Get LastFM last track listened and other user infos by monsieurm
+- [LastFM](https://github.com/rknightuk/trmnl-lastfm) - LastFM dashboard by rknightuk
 - [Libra weight tracker](https://github.com/sejtenik/trmnl-libra-cloud-plugin) - by sejtenik
 - [Magic 8-Ball](https://github.com/jvdmeij/trmnl-magic-8-ball) - Let the Magic 8-Ball make your decisions by jvdmeij
 - [Marvel Character of the Day](https://github.com/MarkHopper24/Marvel-Character-of-the-Day/) - by MarkHopper24
@@ -98,10 +99,15 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Marvel Rivals Stat Tracker](https://github.com/MarkHopper24/Marvel-Rivals-TRMNL-Tracker) - Track your Marvel Rival stats on your TRMNL device by MarkHopper24
 - [MBTA Transport](https://github.com/RyanAngelo/trmnl-mbta) - A real-time MBTA (Massachusetts Bay Transportation Authority) schedule display application by RyanAngelo
 - [Metar Weather](https://github.com/schrockwell/trmnl-metar) - Displaying Weather conditions for a METAR station (METeorologial Aerodrome Reports), data is provided by NOAA's Aviation Weather Center by schrockwell
+- [Metrofresh soups](https://github.com/Bartlebyy/trmnl-plugin-metrofresh-soups) - An Express service that fetches the daily soup menu from MetroFresh via Menuat by Bartlebyy
 - [MEH Deals](https://github.com/ajchili/meh-deals-trmnl-plugin) - Display the daily deal(s) from meh.com by ajchili
 - [Moonphase display](https://github.com/schrockwell/trmnl-moonphase) - Displays the current Moon Phase by schrockwell
 - [NASA Deep Space Network](https://github.com/schrockwell/trmnl-dsn) - Deep Space Network statistics by schrockwel
 - [NHL Next game](https://github.com/cbdm/trmnl-plugins/tree/main/nhl-teams-next-game) - NHL Next game by cbdm
+- [Nightscout - blood sugar data](https://github.com/gabe565/trmnl-nightscout) - TRMNL Nightscout fetches blood sugar data from Nightscout by gabe565 - love this project, this is why TRMNL was created IMO! 😍
+- [Nashville Fire Department Incidents](https://github.com/stephenyeargin/trmnl-nfd-incidents) - Nashville Fire Department Active Incidents by stephenyeargin
+- [Nashville Police Dept. Active Dispatches (Metro)](https://github.com/stephenyeargin/trmnl-mnpd-dispatches) - Metro Nashville Police Dept. Active Dispatches by stephenyeargin
+- [Nashvville Pollen & Air Quality](https://github.com/stephenyeargin/trmnl-nashville-pollen-aqi) - Nashville Pollen & Air Quality by stephenyeargin
 - [ÖBB Train monitor](https://github.com/bnussbau/trmnl-train-monitor) - Austrian ÖBB / OBB Train monitor by bnussbau
 - [OGhunt](https://github.com/Hacksore/oghunt-trmnl) - A plugin to show the top five product hunt launches without AI by Hacksore
 - [Obsidian](https://github.com/frethop/obsidian-TRMNL) - Sample plugin to show Obsidian data on trmnl by frethop
@@ -128,6 +134,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Todoist Sync](https://github.com/Nynir/trmnl-todoist) - Synchronize your Todoist tasks by Nynir
 - [Transport for London status](https://github.com/stevekennedyuk/trmnl-tfl-status) - Transport for London status by stevekennedyuk
 - [TV Guide KT.com](https://github.com/JJGrootveld/trmnl-kr-tvguide) - TV Guide Plugin - KT Schedules by JJGrootveld
+- [Uptime robot (websites)](https://github.com/stephenyeargin/trmnl-uptimerobot) - UptimeRobot for TRMNL by stephenyeargin
 - [Valorant Tracker](https://github.com/MarkHopper24/Valorant-Tools) - Track your Valorant game stats by MarkHopper24
 - [Washington Post frontpage](https://github.com/thamarnan/TRMNL-NYT) - Daily Washington Post frontpage by thamarnan
 - [Weekly goal tracker / Habit tracker](https://github.com/azjgard/trmnl-weekly-goal-tracker) - Weekly goal tracker by azjgard
@@ -145,7 +152,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Zonneplan](https://github.com/LeipeLeon/zonneplan) - 🇳🇱 Zonneplan dynamic price tracker by LeipeLeon
 
 ## 👾 Extra's
-- [Android mirror](https://github.com/hossain-khan/android-trmnl-display) - This mirrors existing TRMNL's content to your Android device by hossain-khan
+- [Android mirror](https://github.com/usetrmnl/trmnl-android) - This mirrors existing TRMNL's content to your Android device originally developed by hossain-khan
 - [Alternative Firmware](https://github.com/covercash2/trmnl_rs) - An alternative firmware for the official trmnl firmware with Rust and Nix by covercash2
 - [BYOS Server (Next.js)](https://github.com/ghcpuman902/byos-nextjs) - BYOS (Build Your Own Server Next.js), a community-maintained library by ghcpuman902
 - [BYOS Server (Ruby / Hanami)](https://github.com/usetrmnl/byos_hanami) - YOS (Build Your Own Server Ruby) by usetrmnl
