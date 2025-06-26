@@ -57,6 +57,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 
 ## 🔌 Plugins
 - [useTRMNL](https://github.com/usetrmnl/plugins) - Featured plugins by useTRMNL
+- [Alto National Water Prediction Service Gauges](https://github.com/stephenyeargin/trmnl-nwps-gauges) - National Water Prediction Service Gauges by stephenyeargin
 - [Ambient Weather display](https://github.com/evandhoffman/trmnl-pws) - Read data from my ambientweather.net weather station by evandhoffman
 - [American College Football top 10](https://github.com/SnarfulSolutionsGroup/TRMNL-Plugins/blob/main/TRMNL_CFB.md) - College Football Top 10 Ranking by SnarfulSolutionsGroup
 - [Anime of the Day](https://github.com/Saious119/trmnl-anime-of-the-day/tree/main) - Displays a random anime of the day from Anilist's public API by Saious119
@@ -77,8 +78,10 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [FBI most wanted](https://github.com/OptimumMeans/TRMNL-FBI-Most-Wanted) - Shows information about FBI Most Wanted fugitives, randomly selected by OptimumMeans
 - [Focus Blocks](https://github.com/btertoolen/trmnl_focus_blocks_plugin) - Focus Time blocks by btertoolen
 - [Fruit Facts](https://github.com/OptimumMeans/TRMNL-Fruit-Facts) - Fruit facts by OptimumMeans
+- [Garbage Collector calendar](https://github.com/hrdkbhatnagar/trml-garbage-calendar) - Garbage calendar (Worldwide) by hrdkbhatnagar
 - [GitHub Commit Graph](https://github.com/usetrmnl/plugins/tree/master/lib/github_commit_graph) - GitHub Commit tracker graph by usetrmnl
 - [Goals Manager](https://github.com/nmartinovic/trmnl-goals-manager) - by nmartinovic
+- [Goodreads progress](https://github.com/goodlibbin/trmnl-goodreads) - Goodreads reading progress by goodlibbin
 - [Google Keep todo list](https://github.com/ellipticview/trmnl-google-keep) - Google Keep todo list on your TRMNL by ellipticview
 - [Fathom Analytics](https://github.com/rknightuk/trmnl-fathom-analytics) - Fathom Analytics plugi by rknightuk
 - [Habitify](https://github.com/sejtenik/trmnl-habitify-plugin) - by sejtenik
@@ -88,12 +91,15 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Home Assistant Addon](https://github.com/ohAnd/trmnlServer_ha_addon) - Home Assistant addon for TRMNL by ohAnd
 - [ICS Calendar](https://github.com/jfsso/trmnl-calendar) - fetches an ICS calendar and display events in a multi-column list format by jfsso
 - [iCal Calendar Flask web service](https://github.com/shyamvenugopalan/trmnl-ical-calendar-server) - iCal Flask web service by shyamvenugopalan
+- [Japan 72 Seasons](https://github.com/pipwilson/trmnl-72-seasons) - Displays the current season of the traditional 72 Japanese seasons by pipwilson
 - [KEXP Playlist](https://github.com/modestindustries/TRMNL-Projects/tree/main/TRMNL-KEXP-Playlist) - Display KEXP playlist on trmnl by modestindustries
 - [Ground Control ISS data](https://github.com/vanbrabantf/Ground-Control-TRMNL) - Fetches data from the Internation Space Station by vanbrabantf
 - [LastFM last listened](https://github.com/monsieurm/trmnl-lastfm) - Get LastFM last track listened and other user infos by monsieurm
 - [LastFM](https://github.com/rknightuk/trmnl-lastfm) - LastFM dashboard by rknightuk
 - [Libra weight tracker](https://github.com/sejtenik/trmnl-libra-cloud-plugin) - by sejtenik
+- [Lumon Wellness facts](https://github.com/vimwtf/trmnl-lumon-wellness) - display facts about your Outie by vimwtf
 - [Magic 8-Ball](https://github.com/jvdmeij/trmnl-magic-8-ball) - Let the Magic 8-Ball make your decisions by jvdmeij
+- [Mario Kart tracks](https://github.com/rknightuk/trmnl-mario-kart) - shows random Mario Kart tracks by rknightuk
 - [Marvel Character of the Day](https://github.com/MarkHopper24/Marvel-Character-of-the-Day/) - by MarkHopper24
 - [Marvel Comic Tracker](https://github.com/Saious119/trmnl-marvel-comic-tracker) - Based on a user defined list display what Marvel comics are coming out this week by Saious119
 - [Marvel Rivals Stat Tracker](https://github.com/MarkHopper24/Marvel-Rivals-TRMNL-Tracker) - Track your Marvel Rival stats on your TRMNL device by MarkHopper24
@@ -112,6 +118,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [OGhunt](https://github.com/Hacksore/oghunt-trmnl) - A plugin to show the top five product hunt launches without AI by Hacksore
 - [Obsidian](https://github.com/frethop/obsidian-TRMNL) - Sample plugin to show Obsidian data on trmnl by frethop
 - [Pi-Hole stats](https://github.com/JBertaux/pi-trmnl) - Pi-Hole stats by JBertaux
+- [Pixelfed](https://github.com/stephenyeargin/trmnl-pixelfed) - Displays pixelfed images by stephenyeargin
 - [Postmark challenge](https://github.com/schrockwell/trmnl-postmark-challenge) - Postmark challenges by schrockwell
 - [Remember The Milk](https://github.com/sejtenik/trmnl-rtm-plugin) - by sejtenik
 - [Salah Prayer Times](https://github.com/abshirahmed/trmnl-salah-times) - by abshirahmed
@@ -123,6 +130,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Surf (surfline) display](https://github.com/pcifaldi/surf_api) - real-time surf and tide data display by pcifaldi
 - [Swedish Weather Service](https://github.com/frjo/usetrmnl-plugins/tree/main/smhi) - Swedish weather service by frjo
 - [SV Eevee Prices (Pokemon)](https://github.com/lannonbr/trmnl-sv-eevee-prices) - Displays Eeveelution prices from Terastal Festival ex & Prismatic Evolutions by lannonbr
+- [Telegram Image Forwarder](https://github.com/yazdipour/trmnl-telegram-bot) - forward images from Telegram directly to a TRMNL by yazdipour
 - [Tempest Weather Station](https://github.com/usetrmnl/plugins/tree/master/lib/tempest_weather_station) - Tempest Weather station by usetrmnl
 - [Teslamate Reporter](https://github.com/eden881/trmnl-teslamate-reporter) - Display your Tesla statistics on your TRMNL by eden881
 - [TRMNL Quotes](https://github.com/michaelgilch/trmnl-quotes) - Inspirational Quotes by michaelgilch
@@ -134,13 +142,16 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Todoist Sync](https://github.com/Nynir/trmnl-todoist) - Synchronize your Todoist tasks by Nynir
 - [Transport for London status](https://github.com/stevekennedyuk/trmnl-tfl-status) - Transport for London status by stevekennedyuk
 - [TV Guide KT.com](https://github.com/JJGrootveld/trmnl-kr-tvguide) - TV Guide Plugin - KT Schedules by JJGrootveld
+- [Unifi Site manager](https://github.com/stephenyeargin/trmnl-unifi-site-manager) - Displays Ubiquiti's unifi site dashboard by stephenyeargin
 - [Uptime robot (websites)](https://github.com/stephenyeargin/trmnl-uptimerobot) - UptimeRobot for TRMNL by stephenyeargin
 - [Valorant Tracker](https://github.com/MarkHopper24/Valorant-Tools) - Track your Valorant game stats by MarkHopper24
+- [Vienna Metro Departures](https://github.com/bnussbau/trmnl-vienna-metro-departures) - Vienna Metro (Wiener Linien) Departures by bnussbau
 - [Washington Post frontpage](https://github.com/thamarnan/TRMNL-NYT) - Daily Washington Post frontpage by thamarnan
 - [Weekly goal tracker / Habit tracker](https://github.com/azjgard/trmnl-weekly-goal-tracker) - Weekly goal tracker by azjgard
 - [Whoop](https://github.com/sapochat/whoop-trmnl) - Whoop health recovery dashboard by sapochat
 - [Who's that Pokemon](https://github.com/sriniketh/trmnl-plugin-whos-that-pokemon) - Displays a random Pokémon every day by sriniketh
 - [Winnie the Pooh quote](https://github.com/jvdmeij/trmnl-winnie-the-pooh) A random quote by Winnie or one of his friends by jvdmeij
+- [Wisdom Quotes](https://github.com/VisualYeti/wisdom_trmnl) - Display a daily quote from Merlin Mann's "The Wisdom Project" by VisualYeti
 - [Woocommerce](https://github.com/yannicschuller/trmnl-woocommerce) - Fetches store data from WooCommerce API and displays by yannischuller
 - [Word clock](https://github.com/delhoume/trmnl_wordclock) - Word clock by delhoume
 - [Word Clock](https://github.com/jvdmeij/trmnl-word-clock) - The Word Clock tells in simple words what the time is by jvdmeij
