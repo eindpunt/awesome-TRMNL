@@ -63,10 +63,13 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Anime of the Day](https://github.com/Saious119/trmnl-anime-of-the-day/tree/main) - Displays a random anime of the day from Anilist's public API by Saious119
 - [Apple Photos](https://github.com/zegl/trmnl-apple-photos) - display Apple Photos by zegl
 - [Apple Reminders](https://github.com/sdjmchattie/trmnl-apple-reminders) - display Apple Reminders by sdjmchattie
+- [Baseball schedule: St. Louis Cardinals](https://github.com/kevdog114/trmnl_stlcards) - fetches the St. Louis Cardinals baseball schedule and standings by kevdog114
 - [Berlin's BVG Transit](https://github.com/danmunoz/trmnl-bvg-transit) - Monitors the status of Berlin's BVG Public transportation by danmunoz
 - [Block Clock](https://github.com/tyler-dot-earth/trmnl-notblockclock) - a "block clock" by tyler-dot-earth
+- [Bouldering Gym: Check how busy it is](https://github.com/tquin/trmnl-bouldering) - This implementation makes use of rockgympro.com (Thus 🇺🇸 only) by tquin
 - [Bring!](https://github.com/yshrdbrn/trmnl-bring-plugin) - Display your Bring! shopping list on TRMNL by yshrdbrn
 - [Buienradar](https://github.com/Akisame-AI/TRMNL_buienradar) - Display the weather from Buienradar on your TRMNL by Akisane-AI
+- [Calibre e-book dashboard](https://github.com/goodlibbin/trmnl-calibre-template) - Display your Calibre-web library status on TRMNL e-ink devices. Shows latest books, library stats, ratings and tags by goodlibbin
 - [Chuck Norris facts](https://github.com/OptimumMeans/TRMNL-Chuck-Norris) - Random Chuck Norris facts by OptimumMeans
 - [Countdown plugin](https://github.com/jvdmeij/trmnl-countdown) - Countdown to a specific date, accompanied by an emoji and text by jvdmeij
 - [Crypto Fear & Greed](https://github.com/jvdmeij/trmnl-crypto-fear-and-greed) - The fear & greed using the API from Alternate by jvdmeij
@@ -103,6 +106,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Marvel Character of the Day](https://github.com/MarkHopper24/Marvel-Character-of-the-Day/) - by MarkHopper24
 - [Marvel Comic Tracker](https://github.com/Saious119/trmnl-marvel-comic-tracker) - Based on a user defined list display what Marvel comics are coming out this week by Saious119
 - [Marvel Rivals Stat Tracker](https://github.com/MarkHopper24/Marvel-Rivals-TRMNL-Tracker) - Track your Marvel Rival stats on your TRMNL device by MarkHopper24
+- [Matomo Analytics](https://github.com/stephenyeargin/trmnl-matomo) - Matomo Analytics dashboard (Google Analytics alternative) by stephenyeargin
 - [MBTA Transport](https://github.com/RyanAngelo/trmnl-mbta) - A real-time MBTA (Massachusetts Bay Transportation Authority) schedule display application by RyanAngelo
 - [Metar Weather](https://github.com/schrockwell/trmnl-metar) - Displaying Weather conditions for a METAR station (METeorologial Aerodrome Reports), data is provided by NOAA's Aviation Weather Center by schrockwell
 - [Metrofresh soups](https://github.com/Bartlebyy/trmnl-plugin-metrofresh-soups) - An Express service that fetches the daily soup menu from MetroFresh via Menuat by Bartlebyy
@@ -148,6 +152,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Vienna Metro Departures](https://github.com/bnussbau/trmnl-vienna-metro-departures) - Vienna Metro (Wiener Linien) Departures by bnussbau
 - [Washington Post frontpage](https://github.com/thamarnan/TRMNL-NYT) - Daily Washington Post frontpage by thamarnan
 - [Weekly goal tracker / Habit tracker](https://github.com/azjgard/trmnl-weekly-goal-tracker) - Weekly goal tracker by azjgard
+- [Wego transit](https://github.com/transitnownash/trmnl-wego-next-trip) - WeGo Public Transit Next Trip by transitnownash
 - [Whoop](https://github.com/sapochat/whoop-trmnl) - Whoop health recovery dashboard by sapochat
 - [Who's that Pokemon](https://github.com/sriniketh/trmnl-plugin-whos-that-pokemon) - Displays a random Pokémon every day by sriniketh
 - [Winnie the Pooh quote](https://github.com/jvdmeij/trmnl-winnie-the-pooh) A random quote by Winnie or one of his friends by jvdmeij
