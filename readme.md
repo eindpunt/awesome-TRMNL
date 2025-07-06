@@ -41,6 +41,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 ## ⚡Firmware & Firmware flashing
 - [TRMNL firmware](https://github.com/usetrmnl/firmware)
 - [WaveShare ESP32-WROOM epaper board TRMNL Firmware](https://github.com/JayJay1989/firmware)
+- [Homeplate](https://github.com/lanrat/homeplate) - Firmware for the Inkplate 10
 - [TRMNL browser firmware flashing](https://usetrmnl.com/flash) - Flash your TRMNL firmware in browser
 - [ESPHome firmware](https://github.com/jesserockz/esphome-trmnl) - ESPHome firmware for TRMNL
 
