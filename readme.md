@@ -190,6 +190,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Server for dashboard](https://github.com/donmccaughey/trmnl_srv) - Python based server for TRMNL dashboard by donmccaughey
 - [TRMNL - 3D printable mounts](https://github.com/usetrmnl/mounts) - 3D printable mounts (fridge magnet, corner bracket) by usetrmnl
 - [TRMNL - Local Web Server](https://github.com/ohAnd/trmnlServer) - Python local webserver for TRMNL by ohAnd
+- [TRMNL - Nook to TRMNL](https://github.com/usetrmnl/trmnl-nook) - Convert your Nook to TRMNL
 - [TRMNL preview  - local development server](https://github.com/schrockwell/trmnl_preview) - A local server that enables local development of plugins using Liquid templates by schrokwell
 - [TRMNL preview docker 🐳 - local dev server](https://hub.docker.com/r/schrockwell/trmnlp) - Docker image for the local dev server by schrokwell
 - [TRMNL tricks](https://github.com/yunruse/trmnl-tricks) - TRMNL tips and tricks
