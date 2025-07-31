@@ -63,11 +63,14 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Ambient Weather display](https://github.com/evandhoffman/trmnl-pws) - Read data from my ambientweather.net weather station by evandhoffman
 - [American College Football top 10](https://github.com/SnarfulSolutionsGroup/TRMNL-Plugins/blob/main/TRMNL_CFB.md) - College Football Top 10 Ranking by SnarfulSolutionsGroup
 - [Anime of the Day](https://github.com/Saious119/trmnl-anime-of-the-day/tree/main) - Displays a random anime of the day from Anilist's public API by Saious119
+- [Anker Solix Battery Bridge](https://github.com/makurix/anker-trmnl-bridge) - Display Anker Solix battery stats by makurix
+- [Anki Cards](https://github.com/ItsJustThomas/trmnl-anki) - Display Anki cards by ItsJustThomas
 - [Apple Photos](https://github.com/zegl/trmnl-apple-photos) - display Apple Photos by zegl
 - [Apple Reminders](https://github.com/sdjmchattie/trmnl-apple-reminders) - display Apple Reminders by sdjmchattie
 - [Baseball schedule: St. Louis Cardinals](https://github.com/kevdog114/trmnl_stlcards) - fetches the St. Louis Cardinals baseball schedule and standings by kevdog114
 - [Berlin's BVG Transit](https://github.com/danmunoz/trmnl-bvg-transit) - Monitors the status of Berlin's BVG Public transportation by danmunoz
 - [Block Clock](https://github.com/tyler-dot-earth/trmnl-notblockclock) - a "block clock" by tyler-dot-earth
+- [Bookclub planner](https://github.com/bnussbau/trmnl-bookclub-planner) - Plan your reading and track your progress leading up to your next book club meeting by bnussbau
 - [Bouldering Gym: Check how busy it is](https://github.com/tquin/trmnl-bouldering) - This implementation makes use of rockgympro.com (Thus 🇺🇸 only) by tquin
 - [Bring!](https://github.com/yshrdbrn/trmnl-bring-plugin) - Display your Bring! shopping list on TRMNL by yshrdbrn
 - [Buienradar](https://github.com/Akisame-AI/TRMNL_buienradar) - Display the weather from Buienradar on your TRMNL by Akisane-AI
@@ -93,6 +96,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [HACS Sensor push](https://github.com/gitstua/trmnl-sensor-push) - A HACS custom component for Home Assistant that pushes data to TRMNL.com by gitstua
 - [Habitify](https://github.com/sejtenik/trmnl-habitify-plugin) - by sejtenik
 - [Hacker News](https://github.com/usetrmnl/plugins/tree/master/lib/hacker_news) - Hacker News display by usetrmnl
+- [Hardcover statistics](https://github.com/jacobtender/hardcover_trmnl) - Display hardcover statistics (social network for book lovers) by jacobtender
 - [Home Assistant Addon](https://github.com/ohAnd/trmnlServer_ha_addon) - Home Assistant addon for TRMNL by ohAnd
 - [Home Assistant](https://github.com/ididit99/useTRMNL-Home-Assistant) - Sending Home Assistant data to TRMNL via a webhook by ididit99
 - [iCal Calendar Flask web service](https://github.com/shyamvenugopalan/trmnl-ical-calendar-server) - iCal Flask web service by shyamvenugopalan
@@ -132,8 +136,10 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [STRMNL - Strava activties](https://strmnl.app/) - Strava activities and stats by paneq
 - [SV Eevee Prices (Pokemon)](https://github.com/lannonbr/trmnl-sv-eevee-prices) - Displays Eeveelution prices from Terastal Festival ex & Prismatic Evolutions by lannonbr
 - [Salah Prayer Times](https://github.com/abshirahmed/trmnl-salah-times) - by abshirahmed
+- [SAT GUS Tracker](https://github.com/loesak/trmnl_satgus) - Easily track SAT GUS by loesak
 - [Seatgeek upcoming events](https://github.com/stephenyeargin/trmnl-seatgeek) - Seatgeek upcoming events by stephenyeargin
 - [Shipping Tracker](https://github.com/OptimumMeans/TRMNL-Ship-Tracker) - Ship tracker using VesselFinder API by OptimumMeans
+- [Star Wars newsfeed](https://github.com/mc-cari/trmnl-starwars-book-feed) - Star Wars news about Comic & Books by mc-cari
 - [Steam deals](https://github.com/subtype-space/trmnl-steam-deals) - Displays top rated Steam deals by subtype-space
 - [Stock price](https://github.com/usetrmnl/plugins/tree/master/lib/stock_price) - Stock price by trmnl
 - [Strava goals](https://github.com/vinayak-mehta/trmnl-strava-goals) - Strava goals by vinayak-mehta
@@ -208,6 +214,8 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - 🐦 [@useTRMNL](https://x.com/useTRMNL)
 - 👤 [TRMNL Facebook](https://www.facebook.com/useTRMNL)
 - 📷 [TRMNL Instagram](https://www.instagram.com/usetrmnl/)
+- 🖼️ [NEW TRMNL X](https://shop.usetrmnl.com/products/trmnl-x?mtke=30) A bigger TRMNL!
+- 
 
 ### 🫂 Community
 
