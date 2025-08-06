@@ -183,6 +183,10 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Your Life in Weeks](https://github.com/jvdmeij/trmnl-your-life-in-weeks) - See the amount of weeks you have lived, and will live by jvdmeij
 - [Zonneplan](https://github.com/LeipeLeon/zonneplan) - 🇳🇱 Zonneplan dynamic price tracker by LeipeLeon
 
+## 📺 Screen generators
+- [Redirect Plugin](https://help.usetrmnl.com/en/articles/11035846-redirect-plugin) - Redirect plugin information
+- [Alias Plugin](https://help.usetrmnl.com/en/articles/10701448-alias-plugin) - Alias plugin information
+
 ## 👾 Extra's
 - [Alternative Firmware](https://github.com/covercash2/trmnl_rs) - An alternative firmware for the official trmnl firmware with Rust and Nix by covercash2
 - [Android mirror](https://github.com/usetrmnl/trmnl-android) - This mirrors existing TRMNL's content to your Android device originally developed by hossain-khan
