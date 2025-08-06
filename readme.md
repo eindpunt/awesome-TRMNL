@@ -68,6 +68,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Apple Photos](https://github.com/zegl/trmnl-apple-photos) - display Apple Photos by zegl
 - [Apple Reminders](https://github.com/sdjmchattie/trmnl-apple-reminders) - display Apple Reminders by sdjmchattie
 - [Baseball schedule: St. Louis Cardinals](https://github.com/kevdog114/trmnl_stlcards) - fetches the St. Louis Cardinals baseball schedule and standings by kevdog114
+- [Bart Departure (California)](https://github.com/oaklandgit/TRMNL_BART_Plugin) - Get BART's departure times on your TRMNL by oaklandgit
 - [Berlin's BVG Transit](https://github.com/danmunoz/trmnl-bvg-transit) - Monitors the status of Berlin's BVG Public transportation by danmunoz
 - [Block Clock](https://github.com/tyler-dot-earth/trmnl-notblockclock) - a "block clock" by tyler-dot-earth
 - [Bookclub planner](https://github.com/bnussbau/trmnl-bookclub-planner) - Plan your reading and track your progress leading up to your next book club meeting by bnussbau
@@ -99,6 +100,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Hardcover statistics](https://github.com/jacobtender/hardcover_trmnl) - Display hardcover statistics (social network for book lovers) by jacobtender
 - [Home Assistant Addon](https://github.com/ohAnd/trmnlServer_ha_addon) - Home Assistant addon for TRMNL by ohAnd
 - [Home Assistant](https://github.com/ididit99/useTRMNL-Home-Assistant) - Sending Home Assistant data to TRMNL via a webhook by ididit99
+- [Home Assistant](https://github.com/fisherevans/ha2trmnl) - Get that Home Assistant data on your TRMNL! by fisherevans
 - [iCal Calendar Flask web service](https://github.com/shyamvenugopalan/trmnl-ical-calendar-server) - iCal Flask web service by shyamvenugopalan
 - [ICS Calendar](https://github.com/jfsso/trmnl-calendar) - fetches an ICS calendar and display events in a multi-column list format by jfsso
 - [Japan 72 Seasons](https://github.com/pipwilson/trmnl-72-seasons) - Displays the current season of the traditional 72 Japanese seasons by pipwilson
@@ -118,6 +120,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Matomo Analytics](https://github.com/stephenyeargin/trmnl-matomo) - Matomo Analytics dashboard (Google Analytics alternative) by stephenyeargin
 - [Metar Weather](https://github.com/schrockwell/trmnl-metar) - Displaying Weather conditions for a METAR station (METeorologial Aerodrome Reports), data is provided by NOAA's Aviation Weather Center by schrockwell
 - [Metrofresh soups](https://github.com/Bartlebyy/trmnl-plugin-metrofresh-soups) - An Express service that fetches the daily soup menu from MetroFresh via Menuat by Bartlebyy
+- [Money Rates (St. Louis Federal Reserve)](https://github.com/dmlandin/TRMNLmoneyRates) - Money rates dashboard by dmlandin
 - [Moonphase display](https://github.com/schrockwell/trmnl-moonphase) - Displays the current Moon Phase by schrockwell
 - [NASA Deep Space Network](https://github.com/schrockwell/trmnl-dsn) - Deep Space Network statistics by schrockwel
 - [NHL Next game](https://github.com/cbdm/trmnl-plugins/tree/main/nhl-teams-next-game) - NHL Next game by cbdm
@@ -132,6 +135,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Pixelfed](https://github.com/stephenyeargin/trmnl-pixelfed) - Displays pixelfed images by stephenyeargin
 - [Pollen Forecast Europe](https://github.com/bnussbau/trmnl-pollen-forecast-eu) - Pollen Forecast in Europe by bnussbau
 - [Postmark challenge](https://github.com/schrockwell/trmnl-postmark-challenge) - Postmark challenges by schrockwell
+- [PS2 title screens](https://github.com/rknightuk/trmnl-ps2-title-screens) - Display random PS2 title screens by rknightuk
 - [Remember The Milk](https://github.com/sejtenik/trmnl-rtm-plugin) - by sejtenik
 - [STRMNL - Strava activties](https://strmnl.app/) - Strava activities and stats by paneq
 - [SV Eevee Prices (Pokemon)](https://github.com/lannonbr/trmnl-sv-eevee-prices) - Displays Eeveelution prices from Terastal Festival ex & Prismatic Evolutions by lannonbr
@@ -187,6 +191,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Build your own TRMNL](https://github.com/ruohki/makeshift-trmnl) - Makeshift edition by ruohki
 - [Chrome extension](http://github.com/usetrmnl/trmnl-chrome) - A Chrome extension that displays images from TRMNL's API in your new tab page by usetrmnl
 - [Convert Kindle to TRMNL](https://github.com/usetrmnl/trmnl-kindle) - Turn your Kindle into TRMNL
+- [Convert Kobo to TRMNL](https://github.com/usetrmnl/trmnl-kobo) - Turn your Kobo into TRMNL
 - [Kuroshiro](https://github.com/PhyberApex/kuroshiro) - Kuroshiro is an open-source BYOS (Bring Your Own Server) solution
 - [Laravel Server](https://github.com/bnussbau/laravel-trmnl-server) - TRMNL server implementation in Laravel by bnussbau
 - [LocalPaper](https://github.com/medo64/LocalPaper) - Local composer for Trmnl device by medo64
