@@ -58,6 +58,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 
 ## 🔌 Plugins
 - [useTRMNL](https://github.com/usetrmnl/plugins) - Featured plugins by useTRMNL
+- [trmnl-recipe-catalog](https://bnussbau.github.io/trmnl-recipe-catalog) – A community-driven catalog of TRMNLP-compatible recipes
 - [Adafruit IO](https://github.com/stephenyeargin/trmnl-adafruit-io) - Adafruit IO by stephenyeargin
 - [Alto National Water Prediction Service Gauges](https://github.com/stephenyeargin/trmnl-nwps-gauges) - National Water Prediction Service Gauges by stephenyeargin
 - [Ambient Weather display](https://github.com/evandhoffman/trmnl-pws) - Read data from my ambientweather.net weather station by evandhoffman
@@ -190,14 +191,14 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 ## 👾 Extra's
 - [Alternative Firmware](https://github.com/covercash2/trmnl_rs) - An alternative firmware for the official trmnl firmware with Rust and Nix by covercash2
 - [Android mirror](https://github.com/usetrmnl/trmnl-android) - This mirrors existing TRMNL's content to your Android device originally developed by hossain-khan
-- [BYOS Server (Next.js)](https://github.com/ghcpuman902/byos-nextjs) - BYOS (Build Your Own Server Next.js), a community-maintained library by ghcpuman902
-- [BYOS Server (Ruby / Hanami)](https://github.com/usetrmnl/byos_hanami) - YOS (Build Your Own Server Ruby) by usetrmnl
+- [BYOS Server (Laravel)](https://github.com/usetrmnl/byos_laravel) - TRMNL server implementation in Laravel by bnussbau
+- [BYOS Server (Next.js)](https://github.com/usetrmnl/byos_next) - BYOS (Build Your Own Server Next.js), a community-maintained library by ghcpuman902
+- [BYOS Server (Ruby / Hanami)](https://github.com/usetrmnl/byos_hanami) - BYOS (Build Your Own Server Ruby) by usetrmnl
 - [Build your own TRMNL](https://github.com/ruohki/makeshift-trmnl) - Makeshift edition by ruohki
 - [Chrome extension](http://github.com/usetrmnl/trmnl-chrome) - A Chrome extension that displays images from TRMNL's API in your new tab page by usetrmnl
 - [Convert Kindle to TRMNL](https://github.com/usetrmnl/trmnl-kindle) - Turn your Kindle into TRMNL
 - [Convert Kobo to TRMNL](https://github.com/usetrmnl/trmnl-kobo) - Turn your Kobo into TRMNL
 - [Kuroshiro](https://github.com/PhyberApex/kuroshiro) - Kuroshiro is an open-source BYOS (Bring Your Own Server) solution
-- [Laravel Server](https://github.com/bnussbau/laravel-trmnl-server) - TRMNL server implementation in Laravel by bnussbau
 - [LocalPaper](https://github.com/medo64/LocalPaper) - Local composer for Trmnl device by medo64
 - [Open Source server](https://github.com/GioPan04/opntrmnl/) - An open-source self-hostable alternative for trmnl plugins by GioPan04
 - [React based renderer](https://github.com/pascal-giguere/react-trmnl) - A React-based renderer (WIP) by pascal-giguere
