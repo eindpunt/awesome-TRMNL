@@ -26,11 +26,15 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 
 <!-- TOC -->
 
-## Specifications
-- A 7.5" e-ink display
+## Specifications TRMNL
+- A 7.5" e-ink display (4 grayscale)
 - An ESP32-C3 microcontroller
 - A 1800-2500 mAh battery
 - The server generates a single-use, 1-bit bitmap image (800x480 pixels)
+
+## Specifications TRMNL X
+- A 10.3" e-ink display (16 grayscale)
+- A 5000-7000 mAh battery
 
 <!-- CONTENT -->
 
@@ -39,11 +43,12 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Terminus](https://github.com/usetrmnl/byos_hanami) - Self hosted screen generation in Ruby/Hanami maintained by the TRMNL team
 
 ## ⚡Firmware & Firmware flashing
-- [TRMNL firmware](https://github.com/usetrmnl/firmware)
-- [WaveShare ESP32-WROOM epaper board TRMNL Firmware](https://github.com/JayJay1989/firmware)
+- [Alternative Firmware](https://github.com/covercash2/trmnl_rs) - An alternative firmware for the official trmnl firmware with Rust and Nix by covercash2
+- [ESPHome firmware](https://github.com/jesserockz/esphome-trmnl) - ESPHome firmware for TRMNL
 - [Homeplate](https://github.com/lanrat/homeplate) - Firmware for the Inkplate 10
 - [TRMNL browser firmware flashing](https://usetrmnl.com/flash) - Flash your TRMNL firmware in browser
-- [ESPHome firmware](https://github.com/jesserockz/esphome-trmnl) - ESPHome firmware for TRMNL
+- [TRMNL firmware](https://github.com/usetrmnl/firmware)
+- [WaveShare ESP32-WROOM epaper board TRMNL Firmware](https://github.com/JayJay1989/firmware)
 
 
 ## 🔨 Boilerplates
@@ -51,17 +56,19 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Python Boilerplate](https://github.com/OptimumMeans/TRMNL-Boilerplate) - by OptimumMeans
 
 ## 🖱️ Development
+- [Azure DevOps Pull Requests](https://github.com/VanBelleRik/azure-devops-pull-requests-trmnl) - Fetches Azure DevOps pull requests by VanBelleRik
 - [Emulate TRMNL display](https://github.com/jackmawer/virtual-trmnl) - A webpage to emulate the TRMNL display
+- [GitHub Workflows](https://github.com/jcorbalanm/trmnl-github-workflows) - Show the last 100 GitHub Workflows from a custom repository by jcorbalanm
 - [Laravel TRMNL](https://github.com/bnussbau/laravel-trmnl) - Develop TRMNL plugins with Laravel by bnussbau
+- [OpenRouter Tracker](https://github.com/saysharastuff/openrouter-tracker) - Display your OpenRouter usage data by saysharastuff
 - [Plugin Tester](https://github.com/gitstua/trmnl-plugin-dev) - A development tool for testing TRMNL plugins by gitstua
 - [Plugin DEV kit](https://github.com/sdjmchattie/trmnl-plugin-dev-kit) - A plugin development kit for TRMNL devices by sdjmchattie
+- [Sentry Monitor](https://github.com/kraynel/trmnl-sentry) - Display your Sentry projects metrics (issues, errors, performances) by kraynel
 
-## 🔌 Plugins
+## 🔌 Plugins - General
 - [useTRMNL](https://github.com/usetrmnl/plugins) - Featured plugins by useTRMNL
 - [trmnl-recipe-catalog](https://bnussbau.github.io/trmnl-recipe-catalog) – A community-driven catalog of TRMNLP-compatible recipes
 - [Adafruit IO](https://github.com/stephenyeargin/trmnl-adafruit-io) - Adafruit IO by stephenyeargin
-- [Alto National Water Prediction Service Gauges](https://github.com/stephenyeargin/trmnl-nwps-gauges) - National Water Prediction Service Gauges by stephenyeargin
-- [Ambient Weather display](https://github.com/evandhoffman/trmnl-pws) - Read data from my ambientweather.net weather station by evandhoffman
 - [American College Football top 10](https://github.com/SnarfulSolutionsGroup/TRMNL-Plugins/blob/main/TRMNL_CFB.md) - College Football Top 10 Ranking by SnarfulSolutionsGroup
 - [Anime of the Day](https://github.com/Saious119/trmnl-anime-of-the-day/tree/main) - Displays a random anime of the day from Anilist's public API by Saious119
 - [Anker Solix Battery Bridge](https://github.com/makurix/anker-trmnl-bridge) - Display Anker Solix battery stats by makurix
@@ -74,38 +81,35 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Block Clock](https://github.com/tyler-dot-earth/trmnl-notblockclock) - a "block clock" by tyler-dot-earth
 - [Bookclub planner](https://github.com/bnussbau/trmnl-bookclub-planner) - Plan your reading and track your progress leading up to your next book club meeting by bnussbau
 - [Bouldering Gym: Check how busy it is](https://github.com/tquin/trmnl-bouldering) - This implementation makes use of rockgympro.com (Thus 🇺🇸 only) by tquin
-- [Bring!](https://github.com/yshrdbrn/trmnl-bring-plugin) - Display your Bring! shopping list on TRMNL by yshrdbrn
-- [Buienradar](https://github.com/Akisame-AI/TRMNL_buienradar) - Display the weather from Buienradar on your TRMNL by Akisane-AI
+- [Bundesliga Results](https://github.com/philippheldt/TRMNL_Bundesliga-Results) - Displays current Bundesliga matchday fixtures and the latest league table by philippheldt
 - [Calibre e-book dashboard](https://github.com/goodlibbin/trmnl-calibre-template) - Display your Calibre-web library status on TRMNL e-ink devices. Shows latest books, library stats, ratings and tags by goodlibbin
 - [Chuck Norris facts](https://github.com/OptimumMeans/TRMNL-Chuck-Norris) - Random Chuck Norris facts by OptimumMeans
 - [Countdown plugin](https://github.com/jvdmeij/trmnl-countdown) - Countdown to a specific date, accompanied by an emoji and text by jvdmeij
 - [Crypto Fear & Greed](https://github.com/jvdmeij/trmnl-crypto-fear-and-greed) - The fear & greed using the API from Alternate by jvdmeij
 - [Cyber Security conferences](https://github.com/AlixAbbasi/TRMNL-Sec-Deadlines) - Cyber security conferences deadlines by AlixAbbasi
 - [Daily comic xkcd](https://github.com/SnarfulSolutionsGroup/TRMNL-Plugins/blob/main/TRMNL_Comic.md) - Daily Comic from xkcd by SnarfulSolutionsGroup
-- [Dcache](https://github.com/ramdacxp/dcache) - Visualize Selected Home Assistant entities on TRMNL by ramdacxp
 - [Digital Archaeologist](https://github.com/OptimumMeans/TRMNL-Digital-Archaeologist) - Digital Archaeologist by OptimumMeans
 - [Discord Bot](https://github.com/OptimumMeans/TRMNL-Discord-Bot) - Discord bot by OptimumMeans
+- [Europe League Results](https://github.com/philippheldt/TRMNL_Europa_League-Results) - Displays the current Europa League group and knockout stage table by philippheldt
 - [FBI most wanted](https://github.com/OptimumMeans/TRMNL-FBI-Most-Wanted) - Shows information about FBI Most Wanted fugitives, randomly selected by OptimumMeans
 - [Fathom Analytics](https://github.com/rknightuk/trmnl-fathom-analytics) - Fathom Analytics plugi by rknightuk
 - [Focus Blocks](https://github.com/btertoolen/trmnl_focus_blocks_plugin) - Focus Time blocks by btertoolen
+- [Foxhole maps](https://github.com/stedrow/foxhole-trmnl-dashboard) - Foxhole war status by Stedrow (Game)
 - [Fruit Facts](https://github.com/OptimumMeans/TRMNL-Fruit-Facts) - Fruit facts by OptimumMeans
-- [Garbage Collector calendar](https://github.com/hrdkbhatnagar/trml-garbage-calendar) - Garbage calendar (Worldwide) by hrdkbhatnagar
 - [GitHub Commit Graph](https://github.com/usetrmnl/plugins/tree/master/lib/github_commit_graph) - GitHub Commit tracker graph by usetrmnl
 - [Goals Manager](https://github.com/nmartinovic/trmnl-goals-manager) - by nmartinovic
 - [Goodreads progress](https://github.com/goodlibbin/trmnl-goodreads) - Goodreads reading progress by goodlibbin
 - [Google Keep todo list](https://github.com/ellipticview/trmnl-google-keep) - Google Keep todo list on your TRMNL by ellipticview
 - [Ground Control ISS data](https://github.com/vanbrabantf/Ground-Control-TRMNL) - Fetches data from the Internation Space Station by vanbrabantf
-- [HACS Sensor push](https://github.com/gitstua/trmnl-sensor-push) - A HACS custom component for Home Assistant that pushes data to TRMNL.com by gitstua
+- [Habitica Tasks](https://github.com/thepeopleseason/trmnl-plugins/tree/main/habitica-tasks) - Show all the task of Habitica by thepeopleseason
 - [Habitify](https://github.com/sejtenik/trmnl-habitify-plugin) - by sejtenik
 - [Hacker News](https://github.com/usetrmnl/plugins/tree/master/lib/hacker_news) - Hacker News display by usetrmnl
 - [Hardcover statistics](https://github.com/jacobtender/hardcover_trmnl) - Display hardcover statistics (social network for book lovers) by jacobtender
-- [Home Assistant Addon](https://github.com/ohAnd/trmnlServer_ha_addon) - Home Assistant addon for TRMNL by ohAnd
-- [Home Assistant](https://github.com/ididit99/useTRMNL-Home-Assistant) - Sending Home Assistant data to TRMNL via a webhook by ididit99
-- [Home Assistant](https://github.com/fisherevans/ha2trmnl) - Get that Home Assistant data on your TRMNL! by fisherevans
 - [iCal Calendar Flask web service](https://github.com/shyamvenugopalan/trmnl-ical-calendar-server) - iCal Flask web service by shyamvenugopalan
 - [ICS Calendar](https://github.com/jfsso/trmnl-calendar) - fetches an ICS calendar and display events in a multi-column list format by jfsso
 - [Japan 72 Seasons](https://github.com/pipwilson/trmnl-72-seasons) - Displays the current season of the traditional 72 Japanese seasons by pipwilson
 - [KEXP Playlist](https://github.com/modestindustries/TRMNL-Projects/tree/main/TRMNL-KEXP-Playlist) - Display KEXP playlist on trmnl by modestindustries
+- [KR TV guide](https://github.com/JJGrootveld/trmnl-kr-tvguide) - Fetches daily TV schedules from the Korean TV guide website (tv.kt.com) by JJGrootveld
 - [LastFM last listened](https://github.com/monsieurm/trmnl-lastfm) - Get LastFM last track listened and other user infos by monsieurm
 - [LastFM](https://github.com/rknightuk/trmnl-lastfm) - LastFM dashboard by rknightuk
 - [Libra weight tracker](https://github.com/sejtenik/trmnl-libra-cloud-plugin) - by sejtenik
@@ -127,14 +131,11 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [NHL Next game](https://github.com/cbdm/trmnl-plugins/tree/main/nhl-teams-next-game) - NHL Next game by cbdm
 - [Nashville Fire Department Incidents](https://github.com/stephenyeargin/trmnl-nfd-incidents) - Nashville Fire Department Active Incidents by stephenyeargin
 - [Nashville Police Dept. Active Dispatches (Metro)](https://github.com/stephenyeargin/trmnl-mnpd-dispatches) - Metro Nashville Police Dept. Active Dispatches by stephenyeargin
-- [Nashvville Pollen & Air Quality](https://github.com/stephenyeargin/trmnl-nashville-pollen-aqi) - Nashville Pollen & Air Quality by stephenyeargin
 - [Nightscout - blood sugar data](https://github.com/gabe565/trmnl-nightscout) - TRMNL Nightscout fetches blood sugar data from Nightscout by gabe565 - love this project, this is why TRMNL was created IMO! 😍
 - [ÖBB Train monitor](https://github.com/bnussbau/trmnl-train-monitor) - Austrian ÖBB / OBB Train monitor by bnussbau
 - [OGhunt](https://github.com/Hacksore/oghunt-trmnl) - A plugin to show the top five product hunt launches without AI by Hacksore
 - [Obsidian](https://github.com/frethop/obsidian-TRMNL) - Sample plugin to show Obsidian data on trmnl by frethop
-- [Pi-Hole stats](https://github.com/JBertaux/pi-trmnl) - Pi-Hole stats by JBertaux
-- [Pixelfed](https://github.com/stephenyeargin/trmnl-pixelfed) - Displays pixelfed images by stephenyeargin
-- [Pollen Forecast Europe](https://github.com/bnussbau/trmnl-pollen-forecast-eu) - Pollen Forecast in Europe by bnussbau
+- [PagerDuty Display](https://github.com/thepeopleseason/trmnl-plugins/tree/main/oncalltoday) - Are you on call today with PagerDuty? by thepeopleseason
 - [Postmark challenge](https://github.com/schrockwell/trmnl-postmark-challenge) - Postmark challenges by schrockwell
 - [PS2 title screens](https://github.com/rknightuk/trmnl-ps2-title-screens) - Display random PS2 title screens by rknightuk
 - [Remember The Milk](https://github.com/sejtenik/trmnl-rtm-plugin) - by sejtenik
@@ -144,8 +145,10 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [SAT GUS Tracker](https://github.com/loesak/trmnl_satgus) - Easily track SAT GUS by loesak
 - [Seatgeek upcoming events](https://github.com/stephenyeargin/trmnl-seatgeek) - Seatgeek upcoming events by stephenyeargin
 - [Shipping Tracker](https://github.com/OptimumMeans/TRMNL-Ship-Tracker) - Ship tracker using VesselFinder API by OptimumMeans
+- [Sleeper Standing](https://github.com/bnussbau/trmnl-sleeper-standings) - TRMNL [Hackaton winner ⭐](https://usetrmnl.com/blog/hackathon-fantasy-american-football-winners), see your weekly matchups and vital stats about your competitor by bnussbau
 - [Star Wars newsfeed](https://github.com/mc-cari/trmnl-starwars-book-feed) - Star Wars news about Comic & Books by mc-cari
 - [Steam deals](https://github.com/subtype-space/trmnl-steam-deals) - Displays top rated Steam deals by subtype-space
+- [Steam sales](https://github.com/andrzejskowron/trmnl-steamsales) - Snatch a Steam sale by andrzejskowron
 - [Stock price](https://github.com/usetrmnl/plugins/tree/master/lib/stock_price) - Stock price by trmnl
 - [Strava goals](https://github.com/vinayak-mehta/trmnl-strava-goals) - Strava goals by vinayak-mehta
 - [Surf (surfline) display](https://github.com/pcifaldi/surf_api) - real-time surf and tide data display by pcifaldi
@@ -153,8 +156,6 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [TRMNL Quotes](https://github.com/michaelgilch/trmnl-quotes) - Inspirational Quotes by michaelgilch
 - [TRMNL Tides](https://github.com/UpDryTwist/trmnl-tides) - Generate local tides screen on your TRMNL by UpDryTwist
 - [TV Guide KT.com](https://github.com/JJGrootveld/trmnl-kr-tvguide) - TV Guide Plugin - KT Schedules by JJGrootveld
-- [Tailscale](https://github.com/stephenyeargin/trmnl-tailscale) - Tailscale dashboard by stephenyeargin
-- [Tautulli Dashboard](https://github.com/hosfordryan/trmnl-tautulli-dash) - Tautulli Dashboard (Plex server user metrics) by hosfordryan
 - [Telegram Image Forwarder](https://github.com/yazdipour/trmnl-telegram-bot) - forward images from Telegram directly to a TRMNL by yazdipour
 - [Tempest Weather Station](https://github.com/usetrmnl/plugins/tree/master/lib/tempest_weather_station) - Tempest Weather station by usetrmnl
 - [Teslamate Reporter](https://github.com/eden881/trmnl-teslamate-reporter) - Display your Tesla statistics on your TRMNL by eden881
@@ -163,7 +164,6 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Tidbyt sync](https://github.com/jvivona/tidbyt-data) - Synchronize your Tidbyt data by jvivona
 - [Todoist Sync](https://github.com/Nynir/trmnl-todoist) - Synchronize your Todoist tasks by Nynir
 - [Transport for London status](https://github.com/stevekennedyuk/trmnl-tfl-status) - Transport for London status by stevekennedyuk
-- [Unifi Site manager](https://github.com/stephenyeargin/trmnl-unifi-site-manager) - Displays Ubiquiti's unifi site dashboard by stephenyeargin
 - [Uptime robot (websites)](https://github.com/stephenyeargin/trmnl-uptimerobot) - UptimeRobot for TRMNL by stephenyeargin
 - [Valorant Tracker](https://github.com/MarkHopper24/Valorant-Tools) - Track your Valorant game stats by MarkHopper24
 - [Vienna Metro Departures](https://github.com/bnussbau/trmnl-vienna-metro-departures) - Vienna Metro (Wiener Linien) Departures by bnussbau
@@ -180,16 +180,48 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [Words of the Day](https://github.com/sejtenik/trmnl-words-of-the-day-plugin) - retrieves the Word of the Day from various online dictionaries by sejtenik
 - [YNAB](https://github.com/turnervink/ynab-for-trmnl) - See your YNAB budget (You Need a Budget) on your TRMNL by turnervink
 - [Year in Progress](https://github.com/monsieurm/trmnl-yearinprogress) - Shows the progress of the year (dots or bar) by monsieurm
-- [YoLink Temperature](https://github.com/erikbuild/trmnl-yolink-temperature) - YoLink temperature sensor by erikbuild
 - [Your Life in Weeks](https://github.com/jvdmeij/trmnl-your-life-in-weeks) - See the amount of weeks you have lived, and will live by jvdmeij
+
+## 👨‍💻 Plugins - Homelab (for IT tech enthusiasts)
+- [Beszel Monitor](https://github.com/yazdipour/trmnl-beszel) - Beszel server monitoring by yazdipour
+- [Docker Container](https://github.com/rish2jain/Docker-TRMNL-Plugin) - Monitor your Docker containers in real-time by rish2jain
+- [Grafana Dashboards](https://github.com/DefCon-007/grafana-trmnl-plugin) - A Flask-based server that renders Grafana dashboard panels by DefCon-007
+- [Kuma Uptime](https://github.com/bnussbau/trmnl-uptimekuma) - Monitor Uptime Kuma status pages by bnussbau
+- [Pi-Hole stats](https://github.com/JBertaux/pi-trmnl) - Pi-Hole stats by JBertaux
+- [Pixelfed](https://github.com/stephenyeargin/trmnl-pixelfed) - Displays pixelfed images by stephenyeargin
+- [Proxmox Backups](https://github.com/MartinBelko/TRMNL-Plugin-Proxmox-Backups) - View results of recent backups (vzdumps) from your Proxmox VE nodes by MartinBelko
+- [Tautulli Dashboard](https://github.com/hosfordryan/trmnl-tautulli-dash) - Tautulli Dashboard (Plex server user metrics) by hosfordryan
+- [Tailscale](https://github.com/stephenyeargin/trmnl-tailscale) - Tailscale dashboard by stephenyeargin
+- [Unifi Site manager](https://github.com/stephenyeargin/trmnl-unifi-site-manager) - Displays Ubiquiti's unifi site dashboard by stephenyeargin
+
+## 🏠 Plugins - Smart Home (Home Assistant, Energy)
+- [Alto National Water Prediction Service Gauges](https://github.com/stephenyeargin/trmnl-nwps-gauges) - National Water Prediction Service Gauges by stephenyeargin
+- [Ambient Weather display](https://github.com/evandhoffman/trmnl-pws) - Read data from my ambientweather.net weather station by evandhoffman
+- [Bring!](https://github.com/yshrdbrn/trmnl-bring-plugin) - Display your Bring! shopping list on TRMNL by yshrdbrn
+- [Buienradar](https://github.com/Akisame-AI/TRMNL_buienradar) - Display the weather from Buienradar on your TRMNL by Akisane-AI
+- [Dcache](https://github.com/ramdacxp/dcache) - Visualize Selected Home Assistant entities on TRMNL by ramdacxp
+- [Garbage Collector calendar](https://github.com/hrdkbhatnagar/trml-garbage-calendar) - Garbage calendar (Worldwide) by hrdkbhatnagar
+- [HACS Sensor push](https://github.com/gitstua/trmnl-sensor-push) - A HACS custom component for Home Assistant that pushes data to TRMNL.com by gitstua
+- [Home Assistant Addon](https://github.com/ohAnd/trmnlServer_ha_addon) - Home Assistant addon for TRMNL by ohAnd
+- [Home Assistant](https://github.com/ididit99/useTRMNL-Home-Assistant) - Sending Home Assistant data to TRMNL via a webhook by ididit99
+- [Home Assistant](https://github.com/fisherevans/ha2trmnl) - Get that Home Assistant data on your TRMNL! by fisherevans
+- [Home Assistant Entities](https://github.com/pwojtaszko/trmnl-home-assistant-plugin) - Displays Home Assistant entities with customizable layouts and styles by pwojtaszko
+- [Nashvville Pollen & Air Quality](https://github.com/stephenyeargin/trmnl-nashville-pollen-aqi) - Nashville Pollen & Air Quality by stephenyeargin
+- [Octopus Energy usage ](https://github.com/marksankey/Energy_Usage) - Provides energy usage data from Octopus Energy API UK by marksankey
+- [Open-Meteo Hourly Weather](https://github.com/andi4000/trmnl-open-meteo-weather-forecast) - 
+- [Pollen Forecast Europe](https://github.com/bnussbau/trmnl-pollen-forecast-eu) - Pollen Forecast in Europe by bnussbau
+- [Tibber Norway](https://github.com/MartinBelko/TRMNL-Plugin-Tibber-Norway) - Shows hourly price throughout the day for tibber customers in Norway by MartinBelko
+- [Wasserspiegel](https://github.com/timgluz/wasserspiegel) - Shows the current water level by Timgluz
+- [Wttr.in display](https://github.com/thepeopleseason/trmnl-plugins/tree/main/wttr.in) - Weather display pulled from wttr.in by thepeopleseason
+- [YoLink Temperature](https://github.com/erikbuild/trmnl-yolink-temperature) - YoLink temperature sensor by erikbuild
 - [Zonneplan](https://github.com/LeipeLeon/zonneplan) - 🇳🇱 Zonneplan dynamic price tracker by LeipeLeon
 
 ## 📺 Screen generators
-- [Redirect Plugin](https://help.usetrmnl.com/en/articles/11035846-redirect-plugin) - Redirect plugin information
 - [Alias Plugin](https://help.usetrmnl.com/en/articles/10701448-alias-plugin) - Alias plugin information
+- [Image Screen generator](https://github.com/noahcreany/TRMNL_screens) - TRMNL screens by noahcreany
+- [Redirect Plugin](https://help.usetrmnl.com/en/articles/11035846-redirect-plugin) - Redirect plugin information
 
 ## 👾 Extra's
-- [Alternative Firmware](https://github.com/covercash2/trmnl_rs) - An alternative firmware for the official trmnl firmware with Rust and Nix by covercash2
 - [Android mirror](https://github.com/usetrmnl/trmnl-android) - This mirrors existing TRMNL's content to your Android device originally developed by hossain-khan
 - [BYOS Server (Laravel)](https://github.com/usetrmnl/byos_laravel) - TRMNL server implementation in Laravel by bnussbau
 - [BYOS Server (Next.js)](https://github.com/usetrmnl/byos_next) - BYOS (Build Your Own Server Next.js), a community-maintained library by ghcpuman902
@@ -204,6 +236,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 - [React based renderer](https://github.com/pascal-giguere/react-trmnl) - A React-based renderer (WIP) by pascal-giguere
 - [Render TRMNL on WaveShare screen](https://github.com/tobias-theobald/epd-node-trmnl) - Render your trmnl screen to your waveshare 7.5" V2 e-ink display on a raspberry pi
 - [Server for dashboard](https://github.com/donmccaughey/trmnl_srv) - Python based server for TRMNL dashboard by donmccaughey
+- [TRMNL Buddy](https://github.com/hossain-khan/trmnl-android-buddy) - Monitor your TRMNL on the go with Android
 - [TRMNL - 3D printable mounts](https://github.com/usetrmnl/mounts) - 3D printable mounts (fridge magnet, corner bracket) by usetrmnl
 - [TRMNL - Local Web Server](https://github.com/ohAnd/trmnlServer) - Python local webserver for TRMNL by ohAnd
 - [TRMNL - Nook to TRMNL](https://github.com/usetrmnl/trmnl-nook) - Convert your Nook to TRMNL
