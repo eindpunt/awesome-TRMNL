@@ -259,7 +259,7 @@ A curated list of TRMNL docs, talks, tools, examples & articles the internet has
 | [Convert Kobo to TRMNL](https://github.com/usetrmnl/trmnl-kobo) | Turn Kobo into TRMNL              | usetrmnl    | Hardware Hack | Extra    |
 | [Convert Nook to TRMNL](https://github.com/usetrmnl/trmnl-nook) | Turn Nook into TRMNL              | usetrmnl    | Hardware Hack | Extra    |
 | [Convert WaveShare to TRMNL](https://github.com/tobias-theobald/epd-node-trmnl)            | Turn WaveShare 7.5" V2 into TRMNL           | tobias-theobald     | Hardware Hack          | Extra    |
-| [Kuroshiro](https://github.com/PhyberApex/kuroshiro) | Kuroshiro is an open-source BYOS (Bring Your Own Server)              | PhyberApex    | Server | Extra    |
+| [Kuroshiro](https://github.com/PhyberApex/kuroshiro) | Self-hosted server (BYOS) that imports trmnl.com Recipes, incl. serverless-transform ones. One Docker image + Postgres, NestJS/Vue, live demo | PhyberApex    | Server | Extra    |
 | [Open Source server](https://github.com/GioPan04/opntrmnl/) | An open-source self-hostable alternative for trmnl plugins    | GioPan04    | Server | Extra    |
 | [React based renderer](https://github.com/pascal-giguere/react-trmnl)            | A React-based renderer           | pascal-giguere     | Rendering          | Extra    |
 | [Server for dashboard](https://github.com/donmccaughey/trmnl_srv)   | Python based server for TRMNL dashboard           | donmccaughey     | Tool          | Extra    |
